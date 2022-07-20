@@ -12244,255 +12244,255 @@ In this library the device names are the same as the pin names of the symbols, t
 <instance part="R1" gate="A" x="-35.56" y="248.92" smashed="yes" rot="R270">
 <attribute name="NAME" x="-38.5699" y="251.0998" size="3.48" layer="95" ratio="10" rot="R270"/>
 </instance>
-<instance part="X1" gate="-1" x="-68.58" y="220.98" smashed="yes">
-<attribute name="NAME" x="-66.04" y="220.218" size="1.524" layer="95"/>
-<attribute name="VALUE" x="-59.182" y="222.377" size="1.778" layer="96"/>
+<instance part="X1" gate="-1" x="-71.12" y="220.98" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="221.742" size="1.524" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-80.518" y="219.583" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="X1" gate="-2" x="-68.58" y="218.44" smashed="yes">
-<attribute name="NAME" x="-66.04" y="217.678" size="1.524" layer="95"/>
-<attribute name="VALUE" x="-59.182" y="219.837" size="1.778" layer="96"/>
+<instance part="X1" gate="-2" x="-71.12" y="218.44" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="219.202" size="1.524" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-80.518" y="217.043" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="X1" gate="-3" x="-68.58" y="215.9" smashed="yes">
-<attribute name="NAME" x="-66.04" y="215.138" size="1.524" layer="95"/>
+<instance part="X1" gate="-3" x="-71.12" y="215.9" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="216.662" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X1" gate="-4" x="-68.58" y="213.36" smashed="yes">
-<attribute name="NAME" x="-66.04" y="212.598" size="1.524" layer="95"/>
+<instance part="X1" gate="-4" x="-71.12" y="213.36" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="214.122" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X1" gate="-5" x="-68.58" y="210.82" smashed="yes">
-<attribute name="NAME" x="-66.04" y="210.058" size="1.524" layer="95"/>
+<instance part="X1" gate="-5" x="-71.12" y="210.82" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="211.582" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X1" gate="-6" x="-68.58" y="208.28" smashed="yes">
-<attribute name="NAME" x="-66.04" y="207.518" size="1.524" layer="95"/>
+<instance part="X1" gate="-6" x="-71.12" y="208.28" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="209.042" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X1" gate="-7" x="-68.58" y="205.74" smashed="yes">
-<attribute name="NAME" x="-66.04" y="204.978" size="1.524" layer="95"/>
+<instance part="X1" gate="-7" x="-71.12" y="205.74" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="206.502" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X1" gate="-8" x="-68.58" y="203.2" smashed="yes">
-<attribute name="NAME" x="-66.04" y="202.438" size="1.524" layer="95"/>
+<instance part="X1" gate="-8" x="-71.12" y="203.2" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="203.962" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X1" gate="-9" x="-68.58" y="200.66" smashed="yes">
-<attribute name="NAME" x="-66.04" y="199.898" size="1.524" layer="95"/>
+<instance part="X1" gate="-9" x="-71.12" y="200.66" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="201.422" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X1" gate="-10" x="-68.58" y="198.12" smashed="yes">
-<attribute name="NAME" x="-66.04" y="197.358" size="1.524" layer="95"/>
+<instance part="X1" gate="-10" x="-71.12" y="198.12" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="198.882" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X1" gate="-11" x="-68.58" y="195.58" smashed="yes">
-<attribute name="NAME" x="-66.04" y="194.818" size="1.524" layer="95"/>
+<instance part="X1" gate="-11" x="-71.12" y="195.58" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="196.342" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X1" gate="-12" x="-68.58" y="193.04" smashed="yes">
-<attribute name="NAME" x="-66.04" y="192.278" size="1.524" layer="95"/>
+<instance part="X1" gate="-12" x="-71.12" y="193.04" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="193.802" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X1" gate="-13" x="-68.58" y="190.5" smashed="yes">
-<attribute name="NAME" x="-66.04" y="189.738" size="1.524" layer="95"/>
+<instance part="X1" gate="-13" x="-71.12" y="190.5" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="191.262" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X1" gate="-14" x="-68.58" y="187.96" smashed="yes">
-<attribute name="NAME" x="-66.04" y="187.198" size="1.524" layer="95"/>
+<instance part="X1" gate="-14" x="-71.12" y="187.96" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="188.722" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X1" gate="-15" x="-68.58" y="185.42" smashed="yes">
-<attribute name="NAME" x="-66.04" y="184.658" size="1.524" layer="95"/>
+<instance part="X1" gate="-15" x="-71.12" y="185.42" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="186.182" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X1" gate="-16" x="-68.58" y="182.88" smashed="yes">
-<attribute name="NAME" x="-66.04" y="182.118" size="1.524" layer="95"/>
+<instance part="X1" gate="-16" x="-71.12" y="182.88" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="183.642" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X2" gate="-1" x="-68.58" y="144.78" smashed="yes">
-<attribute name="NAME" x="-66.04" y="144.018" size="1.524" layer="95"/>
-<attribute name="VALUE" x="-59.182" y="143.637" size="1.778" layer="96"/>
+<instance part="X2" gate="-1" x="-71.12" y="144.78" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="145.542" size="1.524" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-80.518" y="145.923" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="X2" gate="-2" x="-68.58" y="142.24" smashed="yes">
-<attribute name="NAME" x="-66.04" y="141.478" size="1.524" layer="95"/>
-<attribute name="VALUE" x="-59.182" y="141.097" size="1.778" layer="96"/>
+<instance part="X2" gate="-2" x="-71.12" y="142.24" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="143.002" size="1.524" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-80.518" y="143.383" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="X2" gate="-3" x="-68.58" y="139.7" smashed="yes">
-<attribute name="NAME" x="-66.04" y="138.938" size="1.524" layer="95"/>
+<instance part="X2" gate="-3" x="-71.12" y="139.7" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="140.462" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X2" gate="-4" x="-68.58" y="137.16" smashed="yes">
-<attribute name="NAME" x="-66.04" y="136.398" size="1.524" layer="95"/>
+<instance part="X2" gate="-4" x="-71.12" y="137.16" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="137.922" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X2" gate="-5" x="-68.58" y="134.62" smashed="yes">
-<attribute name="NAME" x="-66.04" y="133.858" size="1.524" layer="95"/>
+<instance part="X2" gate="-5" x="-71.12" y="134.62" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="135.382" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X2" gate="-6" x="-68.58" y="132.08" smashed="yes">
-<attribute name="NAME" x="-66.04" y="131.318" size="1.524" layer="95"/>
+<instance part="X2" gate="-6" x="-71.12" y="132.08" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="132.842" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X2" gate="-7" x="-68.58" y="129.54" smashed="yes">
-<attribute name="NAME" x="-66.04" y="128.778" size="1.524" layer="95"/>
+<instance part="X2" gate="-7" x="-71.12" y="129.54" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="130.302" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X2" gate="-8" x="-68.58" y="127" smashed="yes">
-<attribute name="NAME" x="-66.04" y="126.238" size="1.524" layer="95"/>
+<instance part="X2" gate="-8" x="-71.12" y="127" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="127.762" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X2" gate="-9" x="-68.58" y="124.46" smashed="yes">
-<attribute name="NAME" x="-66.04" y="123.698" size="1.524" layer="95"/>
+<instance part="X2" gate="-9" x="-71.12" y="124.46" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="125.222" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X2" gate="-10" x="-68.58" y="121.92" smashed="yes">
-<attribute name="NAME" x="-66.04" y="121.158" size="1.524" layer="95"/>
+<instance part="X2" gate="-10" x="-71.12" y="121.92" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="122.682" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X2" gate="-11" x="-68.58" y="119.38" smashed="yes">
-<attribute name="NAME" x="-66.04" y="118.618" size="1.524" layer="95"/>
+<instance part="X2" gate="-11" x="-71.12" y="119.38" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="120.142" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X2" gate="-12" x="-68.58" y="116.84" smashed="yes">
-<attribute name="NAME" x="-66.04" y="116.078" size="1.524" layer="95"/>
+<instance part="X2" gate="-12" x="-71.12" y="116.84" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="117.602" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X2" gate="-13" x="-68.58" y="114.3" smashed="yes">
-<attribute name="NAME" x="-66.04" y="113.538" size="1.524" layer="95"/>
+<instance part="X2" gate="-13" x="-71.12" y="114.3" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="115.062" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X2" gate="-14" x="-68.58" y="111.76" smashed="yes">
-<attribute name="NAME" x="-66.04" y="110.998" size="1.524" layer="95"/>
+<instance part="X2" gate="-14" x="-71.12" y="111.76" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="112.522" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X2" gate="-15" x="-68.58" y="109.22" smashed="yes">
-<attribute name="NAME" x="-66.04" y="108.458" size="1.524" layer="95"/>
+<instance part="X2" gate="-15" x="-71.12" y="109.22" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="109.982" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X2" gate="-16" x="-68.58" y="106.68" smashed="yes">
-<attribute name="NAME" x="-66.04" y="105.918" size="1.524" layer="95"/>
+<instance part="X2" gate="-16" x="-71.12" y="106.68" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="107.442" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X3" gate="-1" x="-68.58" y="71.12" smashed="yes">
-<attribute name="NAME" x="-66.04" y="70.358" size="1.524" layer="95"/>
-<attribute name="VALUE" x="-59.182" y="69.977" size="1.778" layer="96"/>
+<instance part="X3" gate="-1" x="-71.12" y="71.12" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="71.882" size="1.524" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-80.518" y="72.263" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="X3" gate="-2" x="-68.58" y="68.58" smashed="yes">
-<attribute name="NAME" x="-66.04" y="67.818" size="1.524" layer="95"/>
-<attribute name="VALUE" x="-59.182" y="67.437" size="1.778" layer="96"/>
+<instance part="X3" gate="-2" x="-71.12" y="68.58" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="69.342" size="1.524" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-80.518" y="69.723" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="X3" gate="-3" x="-68.58" y="66.04" smashed="yes">
-<attribute name="NAME" x="-66.04" y="65.278" size="1.524" layer="95"/>
+<instance part="X3" gate="-3" x="-71.12" y="66.04" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="66.802" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X3" gate="-4" x="-68.58" y="63.5" smashed="yes">
-<attribute name="NAME" x="-66.04" y="62.738" size="1.524" layer="95"/>
+<instance part="X3" gate="-4" x="-71.12" y="63.5" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="64.262" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X3" gate="-5" x="-68.58" y="60.96" smashed="yes">
-<attribute name="NAME" x="-66.04" y="60.198" size="1.524" layer="95"/>
+<instance part="X3" gate="-5" x="-71.12" y="60.96" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="61.722" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X3" gate="-6" x="-68.58" y="58.42" smashed="yes">
-<attribute name="NAME" x="-66.04" y="57.658" size="1.524" layer="95"/>
+<instance part="X3" gate="-6" x="-71.12" y="58.42" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="59.182" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X3" gate="-7" x="-68.58" y="55.88" smashed="yes">
-<attribute name="NAME" x="-66.04" y="55.118" size="1.524" layer="95"/>
+<instance part="X3" gate="-7" x="-71.12" y="55.88" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="56.642" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X3" gate="-8" x="-68.58" y="53.34" smashed="yes">
-<attribute name="NAME" x="-66.04" y="52.578" size="1.524" layer="95"/>
+<instance part="X3" gate="-8" x="-71.12" y="53.34" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="54.102" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X3" gate="-9" x="-68.58" y="50.8" smashed="yes">
-<attribute name="NAME" x="-66.04" y="50.038" size="1.524" layer="95"/>
+<instance part="X3" gate="-9" x="-71.12" y="50.8" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="51.562" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X3" gate="-10" x="-68.58" y="48.26" smashed="yes">
-<attribute name="NAME" x="-66.04" y="47.498" size="1.524" layer="95"/>
+<instance part="X3" gate="-10" x="-71.12" y="48.26" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="49.022" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X3" gate="-11" x="-68.58" y="45.72" smashed="yes">
-<attribute name="NAME" x="-66.04" y="44.958" size="1.524" layer="95"/>
+<instance part="X3" gate="-11" x="-71.12" y="45.72" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="46.482" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X3" gate="-12" x="-68.58" y="43.18" smashed="yes">
-<attribute name="NAME" x="-66.04" y="42.418" size="1.524" layer="95"/>
+<instance part="X3" gate="-12" x="-71.12" y="43.18" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="43.942" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X3" gate="-13" x="-68.58" y="40.64" smashed="yes">
-<attribute name="NAME" x="-66.04" y="39.878" size="1.524" layer="95"/>
+<instance part="X3" gate="-13" x="-71.12" y="40.64" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="41.402" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X3" gate="-14" x="-68.58" y="38.1" smashed="yes">
-<attribute name="NAME" x="-66.04" y="37.338" size="1.524" layer="95"/>
+<instance part="X3" gate="-14" x="-71.12" y="38.1" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="38.862" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X3" gate="-15" x="-68.58" y="35.56" smashed="yes">
-<attribute name="NAME" x="-66.04" y="34.798" size="1.524" layer="95"/>
+<instance part="X3" gate="-15" x="-71.12" y="35.56" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="36.322" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X3" gate="-16" x="-68.58" y="33.02" smashed="yes">
-<attribute name="NAME" x="-66.04" y="32.258" size="1.524" layer="95"/>
+<instance part="X3" gate="-16" x="-71.12" y="33.02" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="33.782" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X4" gate="-1" x="-68.58" y="-7.62" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-8.382" size="1.524" layer="95"/>
-<attribute name="VALUE" x="-59.182" y="-8.763" size="1.778" layer="96"/>
+<instance part="X4" gate="-1" x="-71.12" y="-7.62" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-6.858" size="1.524" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-80.518" y="-6.477" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="X4" gate="-2" x="-68.58" y="-10.16" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-10.922" size="1.524" layer="95"/>
-<attribute name="VALUE" x="-59.182" y="-11.303" size="1.778" layer="96"/>
+<instance part="X4" gate="-2" x="-71.12" y="-10.16" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-9.398" size="1.524" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-80.518" y="-9.017" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="X4" gate="-3" x="-68.58" y="-12.7" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-13.462" size="1.524" layer="95"/>
+<instance part="X4" gate="-3" x="-71.12" y="-12.7" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-11.938" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X4" gate="-4" x="-68.58" y="-15.24" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-16.002" size="1.524" layer="95"/>
+<instance part="X4" gate="-4" x="-71.12" y="-15.24" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-14.478" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X4" gate="-5" x="-68.58" y="-17.78" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-18.542" size="1.524" layer="95"/>
+<instance part="X4" gate="-5" x="-71.12" y="-17.78" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-17.018" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X4" gate="-6" x="-68.58" y="-20.32" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-21.082" size="1.524" layer="95"/>
+<instance part="X4" gate="-6" x="-71.12" y="-20.32" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-19.558" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X4" gate="-7" x="-68.58" y="-22.86" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-23.622" size="1.524" layer="95"/>
+<instance part="X4" gate="-7" x="-71.12" y="-22.86" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-22.098" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X4" gate="-8" x="-68.58" y="-25.4" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-26.162" size="1.524" layer="95"/>
+<instance part="X4" gate="-8" x="-71.12" y="-25.4" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-24.638" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X4" gate="-9" x="-68.58" y="-27.94" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-28.702" size="1.524" layer="95"/>
+<instance part="X4" gate="-9" x="-71.12" y="-27.94" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-27.178" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X4" gate="-10" x="-68.58" y="-30.48" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-31.242" size="1.524" layer="95"/>
+<instance part="X4" gate="-10" x="-71.12" y="-30.48" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-29.718" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X4" gate="-11" x="-68.58" y="-33.02" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-33.782" size="1.524" layer="95"/>
+<instance part="X4" gate="-11" x="-71.12" y="-33.02" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-32.258" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X4" gate="-12" x="-68.58" y="-35.56" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-36.322" size="1.524" layer="95"/>
+<instance part="X4" gate="-12" x="-71.12" y="-35.56" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-34.798" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X4" gate="-13" x="-68.58" y="-38.1" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-38.862" size="1.524" layer="95"/>
+<instance part="X4" gate="-13" x="-71.12" y="-38.1" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-37.338" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X4" gate="-14" x="-68.58" y="-40.64" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-41.402" size="1.524" layer="95"/>
+<instance part="X4" gate="-14" x="-71.12" y="-40.64" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-39.878" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X4" gate="-15" x="-68.58" y="-43.18" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-43.942" size="1.524" layer="95"/>
+<instance part="X4" gate="-15" x="-71.12" y="-43.18" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-42.418" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X4" gate="-16" x="-68.58" y="-45.72" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-46.482" size="1.524" layer="95"/>
+<instance part="X4" gate="-16" x="-71.12" y="-45.72" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-44.958" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X5" gate="-1" x="-68.58" y="-86.36" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-87.122" size="1.524" layer="95"/>
-<attribute name="VALUE" x="-59.182" y="-87.503" size="1.778" layer="96"/>
+<instance part="X5" gate="-1" x="-71.12" y="-86.36" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-85.598" size="1.524" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-80.518" y="-85.217" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="X5" gate="-2" x="-68.58" y="-88.9" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-89.662" size="1.524" layer="95"/>
-<attribute name="VALUE" x="-59.182" y="-90.043" size="1.778" layer="96"/>
+<instance part="X5" gate="-2" x="-71.12" y="-88.9" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-88.138" size="1.524" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-80.518" y="-87.757" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="X5" gate="-3" x="-68.58" y="-91.44" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-92.202" size="1.524" layer="95"/>
+<instance part="X5" gate="-3" x="-71.12" y="-91.44" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-90.678" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X5" gate="-4" x="-68.58" y="-93.98" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-94.742" size="1.524" layer="95"/>
+<instance part="X5" gate="-4" x="-71.12" y="-93.98" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-93.218" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X5" gate="-5" x="-68.58" y="-96.52" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-97.282" size="1.524" layer="95"/>
+<instance part="X5" gate="-5" x="-71.12" y="-96.52" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-95.758" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X5" gate="-6" x="-68.58" y="-99.06" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-99.822" size="1.524" layer="95"/>
+<instance part="X5" gate="-6" x="-71.12" y="-99.06" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-98.298" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X5" gate="-7" x="-68.58" y="-101.6" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-102.362" size="1.524" layer="95"/>
+<instance part="X5" gate="-7" x="-71.12" y="-101.6" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-100.838" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X5" gate="-8" x="-68.58" y="-104.14" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-104.902" size="1.524" layer="95"/>
+<instance part="X5" gate="-8" x="-71.12" y="-104.14" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-103.378" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X5" gate="-9" x="-68.58" y="-106.68" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-107.442" size="1.524" layer="95"/>
+<instance part="X5" gate="-9" x="-71.12" y="-106.68" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-105.918" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X5" gate="-10" x="-68.58" y="-109.22" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-109.982" size="1.524" layer="95"/>
+<instance part="X5" gate="-10" x="-71.12" y="-109.22" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-108.458" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X5" gate="-11" x="-68.58" y="-111.76" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-112.522" size="1.524" layer="95"/>
+<instance part="X5" gate="-11" x="-71.12" y="-111.76" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-110.998" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X5" gate="-12" x="-68.58" y="-114.3" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-115.062" size="1.524" layer="95"/>
+<instance part="X5" gate="-12" x="-71.12" y="-114.3" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-113.538" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X5" gate="-13" x="-68.58" y="-116.84" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-117.602" size="1.524" layer="95"/>
+<instance part="X5" gate="-13" x="-71.12" y="-116.84" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-116.078" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X5" gate="-14" x="-68.58" y="-119.38" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-120.142" size="1.524" layer="95"/>
+<instance part="X5" gate="-14" x="-71.12" y="-119.38" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-118.618" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X5" gate="-15" x="-68.58" y="-121.92" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-122.682" size="1.524" layer="95"/>
+<instance part="X5" gate="-15" x="-71.12" y="-121.92" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-121.158" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X5" gate="-16" x="-68.58" y="-124.46" smashed="yes">
-<attribute name="NAME" x="-66.04" y="-125.222" size="1.524" layer="95"/>
+<instance part="X5" gate="-16" x="-71.12" y="-124.46" smashed="yes" rot="R180">
+<attribute name="NAME" x="-73.66" y="-123.698" size="1.524" layer="95" rot="R180"/>
 </instance>
 <instance part="R2" gate="A" x="-33.02" y="248.92" smashed="yes" rot="R270">
 <attribute name="NAME" x="-36.0299" y="251.0998" size="3.48" layer="95" ratio="10" rot="R270"/>
@@ -13835,6 +13835,46 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="-68.58" y1="185.42" x2="-43.18" y2="185.42" width="0.1524" layer="91"/>
 <junction x="-43.18" y="185.42"/>
 <pinref part="SUPPLY13" gate="G$1" pin="AGND"/>
+<pinref part="X5" gate="-1" pin="S"/>
+<pinref part="X5" gate="-3" pin="S"/>
+<pinref part="X5" gate="-5" pin="S"/>
+<pinref part="X5" gate="-7" pin="S"/>
+<pinref part="X5" gate="-9" pin="S"/>
+<pinref part="X5" gate="-11" pin="S"/>
+<pinref part="X5" gate="-13" pin="S"/>
+<pinref part="X5" gate="-15" pin="S"/>
+<pinref part="X4" gate="-15" pin="S"/>
+<pinref part="X4" gate="-13" pin="S"/>
+<pinref part="X4" gate="-11" pin="S"/>
+<pinref part="X4" gate="-9" pin="S"/>
+<pinref part="X4" gate="-7" pin="S"/>
+<pinref part="X4" gate="-5" pin="S"/>
+<pinref part="X4" gate="-3" pin="S"/>
+<pinref part="X4" gate="-1" pin="S"/>
+<pinref part="X3" gate="-15" pin="S"/>
+<pinref part="X3" gate="-13" pin="S"/>
+<pinref part="X3" gate="-11" pin="S"/>
+<pinref part="X3" gate="-9" pin="S"/>
+<pinref part="X3" gate="-7" pin="S"/>
+<pinref part="X3" gate="-5" pin="S"/>
+<pinref part="X3" gate="-3" pin="S"/>
+<pinref part="X3" gate="-1" pin="S"/>
+<pinref part="X2" gate="-15" pin="S"/>
+<pinref part="X2" gate="-13" pin="S"/>
+<pinref part="X2" gate="-11" pin="S"/>
+<pinref part="X2" gate="-9" pin="S"/>
+<pinref part="X2" gate="-7" pin="S"/>
+<pinref part="X2" gate="-5" pin="S"/>
+<pinref part="X2" gate="-3" pin="S"/>
+<pinref part="X2" gate="-1" pin="S"/>
+<pinref part="X1" gate="-15" pin="S"/>
+<pinref part="X1" gate="-13" pin="S"/>
+<pinref part="X1" gate="-11" pin="S"/>
+<pinref part="X1" gate="-9" pin="S"/>
+<pinref part="X1" gate="-7" pin="S"/>
+<pinref part="X1" gate="-5" pin="S"/>
+<pinref part="X1" gate="-3" pin="S"/>
+<pinref part="X1" gate="-1" pin="S"/>
 </segment>
 <segment>
 <pinref part="U5" gate="A" pin="CLOCKINHIBIT"/>
@@ -13902,6 +13942,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="119.38" y1="-109.22" x2="119.38" y2="-73.66" width="0.1524" layer="91"/>
 <wire x1="119.38" y1="-73.66" x2="-38.1" y2="-73.66" width="0.1524" layer="91"/>
 <junction x="-38.1" y="-73.66"/>
+<pinref part="X5" gate="-2" pin="S"/>
 </segment>
 </net>
 <net name="N$35" class="0">
@@ -13915,6 +13956,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="114.3" y1="-106.68" x2="114.3" y2="-78.74" width="0.1524" layer="91"/>
 <wire x1="114.3" y1="-78.74" x2="-35.56" y2="-78.74" width="0.1524" layer="91"/>
 <junction x="-35.56" y="-78.74"/>
+<pinref part="X5" gate="-4" pin="S"/>
 </segment>
 </net>
 <net name="N$37" class="0">
@@ -13928,6 +13970,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="109.22" y1="-104.14" x2="109.22" y2="-83.82" width="0.1524" layer="91"/>
 <wire x1="109.22" y1="-83.82" x2="-33.02" y2="-83.82" width="0.1524" layer="91"/>
 <junction x="-33.02" y="-83.82"/>
+<pinref part="X5" gate="-6" pin="S"/>
 </segment>
 </net>
 <net name="N$38" class="0">
@@ -13941,6 +13984,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="104.14" y1="-101.6" x2="104.14" y2="-88.9" width="0.1524" layer="91"/>
 <wire x1="104.14" y1="-88.9" x2="-30.48" y2="-88.9" width="0.1524" layer="91"/>
 <junction x="-30.48" y="-88.9"/>
+<pinref part="X5" gate="-8" pin="S"/>
 </segment>
 </net>
 <net name="N$39" class="0">
@@ -13952,6 +13996,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="U5" gate="A" pin="E"/>
 <wire x1="-2.54" y1="-101.6" x2="-27.94" y2="-101.6" width="0.1524" layer="91"/>
 <junction x="-27.94" y="-101.6"/>
+<pinref part="X5" gate="-10" pin="S"/>
 </segment>
 </net>
 <net name="N$40" class="0">
@@ -13963,6 +14008,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="U5" gate="A" pin="F"/>
 <wire x1="-2.54" y1="-104.14" x2="-25.4" y2="-104.14" width="0.1524" layer="91"/>
 <junction x="-25.4" y="-104.14"/>
+<pinref part="X5" gate="-12" pin="S"/>
 </segment>
 </net>
 <net name="N$41" class="0">
@@ -13974,6 +14020,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="U5" gate="A" pin="G"/>
 <wire x1="-2.54" y1="-106.68" x2="-22.86" y2="-106.68" width="0.1524" layer="91"/>
 <junction x="-22.86" y="-106.68"/>
+<pinref part="X5" gate="-14" pin="S"/>
 </segment>
 </net>
 <net name="N$49" class="0">
@@ -13985,6 +14032,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="U5" gate="A" pin="H"/>
 <wire x1="-2.54" y1="-109.22" x2="-20.32" y2="-109.22" width="0.1524" layer="91"/>
 <junction x="-20.32" y="-109.22"/>
+<pinref part="X5" gate="-16" pin="S"/>
 </segment>
 </net>
 <net name="N$26" class="0">
@@ -13996,6 +14044,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="-20.32" y1="-35.56" x2="-20.32" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="-5.08" y1="-35.56" x2="-20.32" y2="-35.56" width="0.1524" layer="91"/>
 <junction x="-20.32" y="-35.56"/>
+<pinref part="X4" gate="-16" pin="S"/>
 </segment>
 </net>
 <net name="N$27" class="0">
@@ -14007,6 +14056,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="-22.86" y1="-33.02" x2="-22.86" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="-5.08" y1="-33.02" x2="-22.86" y2="-33.02" width="0.1524" layer="91"/>
 <junction x="-22.86" y="-33.02"/>
+<pinref part="X4" gate="-14" pin="S"/>
 </segment>
 </net>
 <net name="N$28" class="0">
@@ -14018,6 +14068,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="U4" gate="A" pin="F"/>
 <wire x1="-5.08" y1="-30.48" x2="-25.4" y2="-30.48" width="0.1524" layer="91"/>
 <junction x="-25.4" y="-30.48"/>
+<pinref part="X4" gate="-12" pin="S"/>
 </segment>
 </net>
 <net name="N$29" class="0">
@@ -14029,6 +14080,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="-27.94" y1="-27.94" x2="-27.94" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="-5.08" y1="-27.94" x2="-27.94" y2="-27.94" width="0.1524" layer="91"/>
 <junction x="-27.94" y="-27.94"/>
+<pinref part="X4" gate="-10" pin="S"/>
 </segment>
 </net>
 <net name="N$30" class="0">
@@ -14042,6 +14094,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="104.14" y1="-27.94" x2="104.14" y2="-15.24" width="0.1524" layer="91"/>
 <wire x1="104.14" y1="-15.24" x2="-30.48" y2="-15.24" width="0.1524" layer="91"/>
 <junction x="-30.48" y="-15.24"/>
+<pinref part="X4" gate="-8" pin="S"/>
 </segment>
 </net>
 <net name="N$31" class="0">
@@ -14055,6 +14108,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="109.22" y1="-30.48" x2="109.22" y2="-10.16" width="0.1524" layer="91"/>
 <wire x1="109.22" y1="-10.16" x2="-33.02" y2="-10.16" width="0.1524" layer="91"/>
 <junction x="-33.02" y="-10.16"/>
+<pinref part="X4" gate="-6" pin="S"/>
 </segment>
 </net>
 <net name="N$32" class="0">
@@ -14068,6 +14122,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="114.3" y1="-33.02" x2="114.3" y2="-5.08" width="0.1524" layer="91"/>
 <wire x1="114.3" y1="-5.08" x2="-35.56" y2="-5.08" width="0.1524" layer="91"/>
 <junction x="-35.56" y="-5.08"/>
+<pinref part="X4" gate="-4" pin="S"/>
 </segment>
 </net>
 <net name="N$34" class="0">
@@ -14081,6 +14136,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="119.38" y1="-35.56" x2="119.38" y2="0" width="0.1524" layer="91"/>
 <wire x1="119.38" y1="0" x2="-38.1" y2="0" width="0.1524" layer="91"/>
 <junction x="-38.1" y="0"/>
+<pinref part="X4" gate="-2" pin="S"/>
 </segment>
 </net>
 <net name="N$18" class="0">
@@ -14092,6 +14148,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="U3" gate="A" pin="H"/>
 <wire x1="-2.54" y1="43.18" x2="-17.78" y2="43.18" width="0.1524" layer="91"/>
 <junction x="-17.78" y="43.18"/>
+<pinref part="X3" gate="-16" pin="S"/>
 </segment>
 </net>
 <net name="N$19" class="0">
@@ -14103,6 +14160,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="U3" gate="A" pin="G"/>
 <wire x1="-2.54" y1="45.72" x2="-20.32" y2="45.72" width="0.1524" layer="91"/>
 <junction x="-20.32" y="45.72"/>
+<pinref part="X3" gate="-14" pin="S"/>
 </segment>
 </net>
 <net name="N$20" class="0">
@@ -14114,6 +14172,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="U3" gate="A" pin="F"/>
 <wire x1="-2.54" y1="48.26" x2="-22.86" y2="48.26" width="0.1524" layer="91"/>
 <junction x="-22.86" y="48.26"/>
+<pinref part="X3" gate="-12" pin="S"/>
 </segment>
 </net>
 <net name="N$21" class="0">
@@ -14125,6 +14184,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="U3" gate="A" pin="E"/>
 <wire x1="-2.54" y1="50.8" x2="-25.4" y2="50.8" width="0.1524" layer="91"/>
 <junction x="-25.4" y="50.8"/>
+<pinref part="X3" gate="-10" pin="S"/>
 </segment>
 </net>
 <net name="N$22" class="0">
@@ -14138,6 +14198,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="104.14" y1="50.8" x2="104.14" y2="63.5" width="0.1524" layer="91"/>
 <wire x1="104.14" y1="63.5" x2="-27.94" y2="63.5" width="0.1524" layer="91"/>
 <junction x="-27.94" y="63.5"/>
+<pinref part="X3" gate="-8" pin="S"/>
 </segment>
 </net>
 <net name="N$23" class="0">
@@ -14151,6 +14212,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="109.22" y1="48.26" x2="109.22" y2="68.58" width="0.1524" layer="91"/>
 <wire x1="109.22" y1="68.58" x2="-30.48" y2="68.58" width="0.1524" layer="91"/>
 <junction x="-30.48" y="68.58"/>
+<pinref part="X3" gate="-6" pin="S"/>
 </segment>
 </net>
 <net name="N$24" class="0">
@@ -14164,6 +14226,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="114.3" y1="45.72" x2="114.3" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="114.3" y1="73.66" x2="-33.02" y2="73.66" width="0.1524" layer="91"/>
 <junction x="-33.02" y="73.66"/>
+<pinref part="X3" gate="-4" pin="S"/>
 </segment>
 </net>
 <net name="N$60" class="0">
@@ -14177,6 +14240,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="119.38" y1="43.18" x2="119.38" y2="78.74" width="0.1524" layer="91"/>
 <wire x1="119.38" y1="78.74" x2="-35.56" y2="78.74" width="0.1524" layer="91"/>
 <junction x="-35.56" y="78.74"/>
+<pinref part="X3" gate="-2" pin="S"/>
 </segment>
 </net>
 <net name="N$13" class="0">
@@ -14188,6 +14252,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="U2" gate="A" pin="H"/>
 <wire x1="-2.54" y1="119.38" x2="-17.78" y2="119.38" width="0.1524" layer="91"/>
 <junction x="-17.78" y="119.38"/>
+<pinref part="X2" gate="-16" pin="S"/>
 </segment>
 </net>
 <net name="N$14" class="0">
@@ -14199,6 +14264,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="U2" gate="A" pin="G"/>
 <wire x1="-2.54" y1="121.92" x2="-20.32" y2="121.92" width="0.1524" layer="91"/>
 <junction x="-20.32" y="121.92"/>
+<pinref part="X2" gate="-14" pin="S"/>
 </segment>
 </net>
 <net name="N$15" class="0">
@@ -14210,6 +14276,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="U2" gate="A" pin="F"/>
 <wire x1="-2.54" y1="124.46" x2="-22.86" y2="124.46" width="0.1524" layer="91"/>
 <junction x="-22.86" y="124.46"/>
+<pinref part="X2" gate="-12" pin="S"/>
 </segment>
 </net>
 <net name="N$16" class="0">
@@ -14221,6 +14288,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="U2" gate="A" pin="E"/>
 <wire x1="-2.54" y1="127" x2="-25.4" y2="127" width="0.1524" layer="91"/>
 <junction x="-25.4" y="127"/>
+<pinref part="X2" gate="-10" pin="S"/>
 </segment>
 </net>
 <net name="N$25" class="0">
@@ -14234,6 +14302,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="104.14" y1="127" x2="104.14" y2="139.7" width="0.1524" layer="91"/>
 <wire x1="104.14" y1="139.7" x2="-27.94" y2="139.7" width="0.1524" layer="91"/>
 <junction x="-27.94" y="139.7"/>
+<pinref part="X2" gate="-8" pin="S"/>
 </segment>
 </net>
 <net name="N$36" class="0">
@@ -14247,6 +14316,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="109.22" y1="124.46" x2="109.22" y2="144.78" width="0.1524" layer="91"/>
 <wire x1="109.22" y1="144.78" x2="-30.48" y2="144.78" width="0.1524" layer="91"/>
 <junction x="-30.48" y="144.78"/>
+<pinref part="X2" gate="-6" pin="S"/>
 </segment>
 </net>
 <net name="N$55" class="0">
@@ -14260,6 +14330,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="114.3" y1="121.92" x2="114.3" y2="149.86" width="0.1524" layer="91"/>
 <wire x1="114.3" y1="149.86" x2="-33.02" y2="149.86" width="0.1524" layer="91"/>
 <junction x="-33.02" y="149.86"/>
+<pinref part="X2" gate="-4" pin="S"/>
 </segment>
 </net>
 <net name="N$56" class="0">
@@ -14273,6 +14344,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="119.38" y1="119.38" x2="119.38" y2="154.94" width="0.1524" layer="91"/>
 <wire x1="119.38" y1="154.94" x2="-35.56" y2="154.94" width="0.1524" layer="91"/>
 <junction x="-35.56" y="154.94"/>
+<pinref part="X2" gate="-2" pin="S"/>
 </segment>
 </net>
 <net name="N$2" class="0">
@@ -14284,6 +14356,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="-17.78" y1="198.12" x2="-17.78" y2="236.22" width="0.1524" layer="91"/>
 <wire x1="0" y1="198.12" x2="-17.78" y2="198.12" width="0.1524" layer="91"/>
 <junction x="-17.78" y="198.12"/>
+<pinref part="X1" gate="-16" pin="S"/>
 </segment>
 </net>
 <net name="N$3" class="0">
@@ -14295,6 +14368,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="-20.32" y1="200.66" x2="-20.32" y2="236.22" width="0.1524" layer="91"/>
 <wire x1="0" y1="200.66" x2="-20.32" y2="200.66" width="0.1524" layer="91"/>
 <junction x="-20.32" y="200.66"/>
+<pinref part="X1" gate="-14" pin="S"/>
 </segment>
 </net>
 <net name="N$4" class="0">
@@ -14306,6 +14380,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="U1" gate="A" pin="F"/>
 <wire x1="0" y1="203.2" x2="-22.86" y2="203.2" width="0.1524" layer="91"/>
 <junction x="-22.86" y="203.2"/>
+<pinref part="X1" gate="-12" pin="S"/>
 </segment>
 </net>
 <net name="N$5" class="0">
@@ -14317,6 +14392,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="-25.4" y1="205.74" x2="-25.4" y2="236.22" width="0.1524" layer="91"/>
 <wire x1="0" y1="205.74" x2="-25.4" y2="205.74" width="0.1524" layer="91"/>
 <junction x="-25.4" y="205.74"/>
+<pinref part="X1" gate="-10" pin="S"/>
 </segment>
 </net>
 <net name="N$6" class="0">
@@ -14330,6 +14406,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="106.68" y1="205.74" x2="106.68" y2="218.44" width="0.1524" layer="91"/>
 <wire x1="106.68" y1="218.44" x2="-27.94" y2="218.44" width="0.1524" layer="91"/>
 <junction x="-27.94" y="218.44"/>
+<pinref part="X1" gate="-8" pin="S"/>
 </segment>
 </net>
 <net name="N$7" class="0">
@@ -14343,6 +14420,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="111.76" y1="203.2" x2="111.76" y2="223.52" width="0.1524" layer="91"/>
 <wire x1="111.76" y1="223.52" x2="-30.48" y2="223.52" width="0.1524" layer="91"/>
 <junction x="-30.48" y="223.52"/>
+<pinref part="X1" gate="-6" pin="S"/>
 </segment>
 </net>
 <net name="N$8" class="0">
@@ -14356,6 +14434,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="116.84" y1="200.66" x2="116.84" y2="228.6" width="0.1524" layer="91"/>
 <wire x1="116.84" y1="228.6" x2="-33.02" y2="228.6" width="0.1524" layer="91"/>
 <junction x="-33.02" y="228.6"/>
+<pinref part="X1" gate="-4" pin="S"/>
 </segment>
 </net>
 <net name="N$9" class="0">
@@ -14369,6 +14448,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="121.92" y1="198.12" x2="121.92" y2="233.68" width="0.1524" layer="91"/>
 <wire x1="121.92" y1="233.68" x2="-35.56" y2="233.68" width="0.1524" layer="91"/>
 <junction x="-35.56" y="233.68"/>
+<pinref part="X1" gate="-2" pin="S"/>
 </segment>
 </net>
 <net name="N$10" class="0">
