@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="5" altunitdist="mil" altunit="mil"/>
+<grid distance="25" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
@@ -2247,29 +2247,26 @@ design rules under a new name.</description>
 <attribute name="SPICEPREFIX" value="C" x="-41.91" y="11.43" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="205.232" y="81.661" size="1.27" layer="27" ratio="10" rot="R270"/>
 </element>
-<element name="R1" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="2.54" y="44.45" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="152.4" y="2.54" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="152.4" y="2.54" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="152.4" y="2.54" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="152.4" y="2.54" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="5.1108" y="43.815" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="2.8432" y="41.275" size="1.27" layer="21" ratio="6"/>
+<element name="R1" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="33.02" y="83.82" smashed="yes" rot="R90">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="74.93" y="233.68" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="74.93" y="233.68" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="74.93" y="233.68" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="74.93" y="233.68" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="33.655" y="86.3908" size="1.27" layer="27" ratio="6" rot="R90"/>
 </element>
-<element name="R10" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="39.37" y="52.07" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="179.07" y="-35.56" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="179.07" y="-35.56" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="179.07" y="-35.56" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="179.07" y="-35.56" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="41.9408" y="51.435" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="39.6732" y="48.895" size="1.27" layer="21" ratio="6"/>
+<element name="R10" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="45.72" y="95.885" smashed="yes" rot="R270">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="-41.91" y="-43.815" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="-41.91" y="-43.815" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="-41.91" y="-43.815" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="-41.91" y="-43.815" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="45.085" y="93.3142" size="1.27" layer="27" ratio="6" rot="R270"/>
 </element>
-<element name="R11" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="39.37" y="58.42" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="224.79" y="-29.21" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="224.79" y="-29.21" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="224.79" y="-29.21" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="224.79" y="-29.21" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="41.9408" y="57.785" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="39.6732" y="55.245" size="1.27" layer="21" ratio="6"/>
+<element name="R11" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="50.8" y="95.885" smashed="yes" rot="R270">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="-36.83" y="-89.535" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="-36.83" y="-89.535" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="-36.83" y="-89.535" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="-36.83" y="-89.535" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="50.165" y="93.3142" size="1.27" layer="27" ratio="6" rot="R270"/>
 </element>
 <element name="R111" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="204.47" y="13.97" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="389.89" y="-180.34" size="1.778" layer="27" display="off"/>
@@ -2295,93 +2292,82 @@ design rules under a new name.</description>
 <attribute name="NAME" x="220.345" y="17.7492" size="1.27" layer="27" ratio="6" rot="R270"/>
 <attribute name="VALUE" x="223.8232" y="19.685" size="1.27" layer="21" ratio="6"/>
 </element>
-<element name="R12" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="39.37" y="64.77" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="270.51" y="-22.86" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="270.51" y="-22.86" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="270.51" y="-22.86" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="270.51" y="-22.86" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="41.9408" y="64.135" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="39.6732" y="61.595" size="1.27" layer="21" ratio="6"/>
+<element name="R12" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="55.88" y="95.885" smashed="yes" rot="R270">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="-31.75" y="-135.255" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="-31.75" y="-135.255" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="-31.75" y="-135.255" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="-31.75" y="-135.255" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="55.245" y="93.3142" size="1.27" layer="27" ratio="6" rot="R270"/>
 </element>
-<element name="R13" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="39.37" y="71.12" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="87.63" y="-34.29" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="87.63" y="-34.29" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="87.63" y="-34.29" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="87.63" y="-34.29" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="41.9408" y="70.485" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="39.6732" y="67.945" size="1.27" layer="21" ratio="6"/>
+<element name="R13" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="53.34" y="95.885" smashed="yes" rot="R270">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="-52.07" y="47.625" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="-52.07" y="47.625" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="-52.07" y="47.625" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="-52.07" y="47.625" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="52.705" y="93.3142" size="1.27" layer="27" ratio="6" rot="R270"/>
 </element>
-<element name="R14" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="39.37" y="77.47" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="133.35" y="-27.94" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="133.35" y="-27.94" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="133.35" y="-27.94" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="133.35" y="-27.94" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="41.9408" y="76.835" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="39.6732" y="74.295" size="1.27" layer="21" ratio="6"/>
+<element name="R14" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="48.26" y="95.885" smashed="yes" rot="R270">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="-57.15" y="1.905" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="-57.15" y="1.905" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="-57.15" y="1.905" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="-57.15" y="1.905" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="47.625" y="93.3142" size="1.27" layer="27" ratio="6" rot="R270"/>
 </element>
-<element name="R15" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="39.37" y="83.82" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="179.07" y="-21.59" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="179.07" y="-21.59" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="179.07" y="-21.59" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="179.07" y="-21.59" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="41.9408" y="83.185" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="39.6732" y="80.645" size="1.27" layer="21" ratio="6"/>
+<element name="R15" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="43.18" y="95.885" smashed="yes" rot="R270">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="-62.23" y="-43.815" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="-62.23" y="-43.815" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="-62.23" y="-43.815" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="-62.23" y="-43.815" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="42.545" y="93.3142" size="1.27" layer="27" ratio="6" rot="R270"/>
 </element>
-<element name="R16" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="39.37" y="90.17" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="224.79" y="-15.24" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="224.79" y="-15.24" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="224.79" y="-15.24" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="224.79" y="-15.24" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="41.9408" y="89.535" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="39.6732" y="86.995" size="1.27" layer="21" ratio="6"/>
+<element name="R16" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="38.1" y="95.885" smashed="yes" rot="R270">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="-67.31" y="-89.535" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="-67.31" y="-89.535" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="-67.31" y="-89.535" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="-67.31" y="-89.535" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="37.465" y="93.3142" size="1.27" layer="27" ratio="6" rot="R270"/>
 </element>
-<element name="R17" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="78.74" y="44.45" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="309.88" y="-60.96" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="309.88" y="-60.96" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="309.88" y="-60.96" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="309.88" y="-60.96" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="81.3108" y="43.815" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="79.0432" y="41.275" size="1.27" layer="21" ratio="6"/>
+<element name="R17" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="78.74" y="83.82" smashed="yes" rot="R90">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="184.15" y="314.96" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="184.15" y="314.96" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="184.15" y="314.96" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="184.15" y="314.96" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="79.375" y="86.3908" size="1.27" layer="27" ratio="6" rot="R90"/>
 </element>
-<element name="R18" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="78.74" y="50.8" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="127" y="-72.39" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="127" y="-72.39" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="127" y="-72.39" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="127" y="-72.39" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="81.3108" y="50.165" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="79.0432" y="47.625" size="1.27" layer="21" ratio="6"/>
+<element name="R18" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="76.2" y="83.82" smashed="yes" rot="R90">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="199.39" y="132.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="199.39" y="132.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="199.39" y="132.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="199.39" y="132.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="76.835" y="86.3908" size="1.27" layer="27" ratio="6" rot="R90"/>
 </element>
-<element name="R19" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="78.74" y="57.15" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="172.72" y="-66.04" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="172.72" y="-66.04" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="172.72" y="-66.04" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="172.72" y="-66.04" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="81.3108" y="56.515" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="79.0432" y="53.975" size="1.27" layer="21" ratio="6"/>
+<element name="R19" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="73.66" y="83.82" smashed="yes" rot="R90">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="196.85" y="177.8" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="196.85" y="177.8" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="196.85" y="177.8" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="196.85" y="177.8" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="74.295" y="86.3908" size="1.27" layer="27" ratio="6" rot="R90"/>
 </element>
-<element name="R2" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="2.54" y="50.8" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="198.12" y="8.89" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="198.12" y="8.89" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="198.12" y="8.89" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="198.12" y="8.89" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="5.1108" y="50.165" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="4.1132" y="47.625" size="1.27" layer="21" ratio="6"/>
+<element name="R2" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="30.48" y="83.82" smashed="yes" rot="R90">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="72.39" y="279.4" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="72.39" y="279.4" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="72.39" y="279.4" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="72.39" y="279.4" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="31.115" y="86.3908" size="1.27" layer="27" ratio="6" rot="R90"/>
 </element>
-<element name="R20" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="78.74" y="63.5" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="218.44" y="-59.69" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="218.44" y="-59.69" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="218.44" y="-59.69" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="218.44" y="-59.69" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="81.3108" y="62.865" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="79.0432" y="60.325" size="1.27" layer="21" ratio="6"/>
+<element name="R20" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="71.12" y="83.82" smashed="yes" rot="R90">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="194.31" y="223.52" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="194.31" y="223.52" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="194.31" y="223.52" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="194.31" y="223.52" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="71.755" y="86.3908" size="1.27" layer="27" ratio="6" rot="R90"/>
 </element>
-<element name="R21" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="78.74" y="69.85" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="264.16" y="-53.34" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="264.16" y="-53.34" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="264.16" y="-53.34" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="264.16" y="-53.34" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="81.3108" y="69.215" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="79.0432" y="66.675" size="1.27" layer="21" ratio="6"/>
+<element name="R21" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="68.58" y="83.82" smashed="yes" rot="R90">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="191.77" y="269.24" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="191.77" y="269.24" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="191.77" y="269.24" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="191.77" y="269.24" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="69.215" y="86.3908" size="1.27" layer="27" ratio="6" rot="R90"/>
 </element>
 <element name="R211" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="220.98" y="43.18" smashed="yes" rot="R180">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="127" y="255.27" size="1.778" layer="27" rot="R180" display="off"/>
@@ -2407,29 +2393,26 @@ design rules under a new name.</description>
 <attribute name="NAME" x="216.535" y="36.7992" size="1.27" layer="27" ratio="6" rot="R270"/>
 <attribute name="VALUE" x="214.9332" y="24.765" size="1.27" layer="21" ratio="6"/>
 </element>
-<element name="R22" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="78.74" y="76.2" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="309.88" y="-46.99" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="309.88" y="-46.99" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="309.88" y="-46.99" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="309.88" y="-46.99" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="81.3108" y="75.565" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="79.0432" y="73.025" size="1.27" layer="21" ratio="6"/>
+<element name="R22" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="66.04" y="83.82" smashed="yes" rot="R90">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="189.23" y="314.96" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="189.23" y="314.96" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="189.23" y="314.96" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="189.23" y="314.96" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="66.675" y="86.3908" size="1.27" layer="27" ratio="6" rot="R90"/>
 </element>
-<element name="R23" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="78.74" y="82.55" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="127" y="-58.42" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="127" y="-58.42" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="127" y="-58.42" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="127" y="-58.42" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="81.3108" y="81.915" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="79.0432" y="79.375" size="1.27" layer="21" ratio="6"/>
+<element name="R23" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="63.5" y="83.82" smashed="yes" rot="R90">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="204.47" y="132.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="204.47" y="132.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="204.47" y="132.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="204.47" y="132.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="64.135" y="86.3908" size="1.27" layer="27" ratio="6" rot="R90"/>
 </element>
-<element name="R24" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="78.74" y="88.9" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="172.72" y="-52.07" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="172.72" y="-52.07" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="172.72" y="-52.07" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="172.72" y="-52.07" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="81.3108" y="88.265" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="79.0432" y="85.725" size="1.27" layer="21" ratio="6"/>
+<element name="R24" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="60.96" y="83.82" smashed="yes" rot="R90">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="201.93" y="177.8" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="201.93" y="177.8" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="201.93" y="177.8" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="201.93" y="177.8" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="61.595" y="86.3908" size="1.27" layer="27" ratio="6" rot="R90"/>
 </element>
 <element name="R25" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="118.11" y="44.45" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="257.81" y="-96.52" size="1.778" layer="27" display="off"/>
@@ -2437,7 +2420,6 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="257.81" y="-96.52" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_NAME" value="Yageo" x="257.81" y="-96.52" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="120.6808" y="43.815" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="118.4132" y="41.275" size="1.27" layer="21" ratio="6"/>
 </element>
 <element name="R26" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="118.11" y="50.8" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="303.53" y="-90.17" size="1.778" layer="27" display="off"/>
@@ -2445,7 +2427,6 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="303.53" y="-90.17" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_NAME" value="Yageo" x="303.53" y="-90.17" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="120.6808" y="50.165" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="118.4132" y="47.625" size="1.27" layer="21" ratio="6"/>
 </element>
 <element name="R27" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="118.11" y="57.15" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="349.25" y="-83.82" size="1.778" layer="27" display="off"/>
@@ -2453,7 +2434,6 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="349.25" y="-83.82" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_NAME" value="Yageo" x="349.25" y="-83.82" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="120.6808" y="56.515" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="118.4132" y="53.975" size="1.27" layer="21" ratio="6"/>
 </element>
 <element name="R28" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="118.11" y="63.5" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="166.37" y="-95.25" size="1.778" layer="27" display="off"/>
@@ -2461,7 +2441,6 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="166.37" y="-95.25" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_NAME" value="Yageo" x="166.37" y="-95.25" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="120.6808" y="62.865" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="118.4132" y="60.325" size="1.27" layer="21" ratio="6"/>
 </element>
 <element name="R29" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="118.11" y="69.85" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="212.09" y="-88.9" size="1.778" layer="27" display="off"/>
@@ -2469,15 +2448,13 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="212.09" y="-88.9" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_NAME" value="Yageo" x="212.09" y="-88.9" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="120.6808" y="69.215" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="118.4132" y="66.675" size="1.27" layer="21" ratio="6"/>
 </element>
-<element name="R3" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="2.54" y="57.15" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="50.8" y="-12.7" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="50.8" y="-12.7" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="50.8" y="-12.7" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="50.8" y="-12.7" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="5.1108" y="56.515" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="2.8432" y="53.975" size="1.27" layer="21" ratio="6"/>
+<element name="R3" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="27.94" y="83.82" smashed="yes" rot="R90">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="97.79" y="132.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="97.79" y="132.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="97.79" y="132.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="97.79" y="132.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="28.575" y="86.3908" size="1.27" layer="27" ratio="6" rot="R90"/>
 </element>
 <element name="R30" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="118.11" y="76.2" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="257.81" y="-82.55" size="1.778" layer="27" display="off"/>
@@ -2485,7 +2462,6 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="257.81" y="-82.55" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_NAME" value="Yageo" x="257.81" y="-82.55" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="120.6808" y="75.565" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="118.4132" y="73.025" size="1.27" layer="21" ratio="6"/>
 </element>
 <element name="R31" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="118.11" y="82.55" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="303.53" y="-76.2" size="1.778" layer="27" display="off"/>
@@ -2493,7 +2469,6 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="303.53" y="-76.2" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_NAME" value="Yageo" x="303.53" y="-76.2" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="120.6808" y="81.915" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="118.4132" y="79.375" size="1.27" layer="21" ratio="6"/>
 </element>
 <element name="R311" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="208.28" y="67.31" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="439.42" y="-144.78" size="1.778" layer="27" display="off"/>
@@ -2525,7 +2500,6 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="349.25" y="-69.85" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_NAME" value="Yageo" x="349.25" y="-69.85" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="120.6808" y="88.265" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="118.4132" y="85.725" size="1.27" layer="21" ratio="6"/>
 </element>
 <element name="R33" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="160.02" y="45.72" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="208.28" y="-130.81" size="1.778" layer="27" display="off"/>
@@ -2533,7 +2507,6 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="208.28" y="-130.81" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_NAME" value="Yageo" x="208.28" y="-130.81" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="162.5908" y="45.085" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="160.3232" y="42.545" size="1.27" layer="21" ratio="6"/>
 </element>
 <element name="R34" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="160.02" y="52.07" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="254" y="-124.46" size="1.778" layer="27" display="off"/>
@@ -2541,7 +2514,6 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="254" y="-124.46" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_NAME" value="Yageo" x="254" y="-124.46" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="162.5908" y="51.435" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="160.3232" y="48.895" size="1.27" layer="21" ratio="6"/>
 </element>
 <element name="R35" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="160.02" y="58.42" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="299.72" y="-118.11" size="1.778" layer="27" display="off"/>
@@ -2549,7 +2521,6 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="299.72" y="-118.11" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_NAME" value="Yageo" x="299.72" y="-118.11" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="162.5908" y="57.785" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="160.3232" y="55.245" size="1.27" layer="21" ratio="6"/>
 </element>
 <element name="R36" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="160.02" y="64.77" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="345.44" y="-111.76" size="1.778" layer="27" display="off"/>
@@ -2557,7 +2528,6 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="345.44" y="-111.76" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_NAME" value="Yageo" x="345.44" y="-111.76" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="162.5908" y="64.135" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="160.3232" y="61.595" size="1.27" layer="21" ratio="6"/>
 </element>
 <element name="R37" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="160.02" y="71.12" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="391.16" y="-105.41" size="1.778" layer="27" display="off"/>
@@ -2565,7 +2535,6 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="391.16" y="-105.41" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_NAME" value="Yageo" x="391.16" y="-105.41" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="162.5908" y="70.485" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="160.3232" y="67.945" size="1.27" layer="21" ratio="6"/>
 </element>
 <element name="R38" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="160.02" y="77.47" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="208.28" y="-116.84" size="1.778" layer="27" display="off"/>
@@ -2573,7 +2542,6 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="208.28" y="-116.84" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_NAME" value="Yageo" x="208.28" y="-116.84" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="162.5908" y="76.835" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="160.3232" y="74.295" size="1.27" layer="21" ratio="6"/>
 </element>
 <element name="R39" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="160.02" y="83.82" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="254" y="-110.49" size="1.778" layer="27" display="off"/>
@@ -2581,15 +2549,13 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="254" y="-110.49" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_NAME" value="Yageo" x="254" y="-110.49" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="162.5908" y="83.185" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="160.3232" y="80.645" size="1.27" layer="21" ratio="6"/>
 </element>
-<element name="R4" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="2.54" y="63.5" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="96.52" y="-6.35" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="96.52" y="-6.35" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="96.52" y="-6.35" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="96.52" y="-6.35" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="5.1108" y="62.865" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="2.8432" y="60.325" size="1.27" layer="21" ratio="6"/>
+<element name="R4" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="25.4" y="83.82" smashed="yes" rot="R90">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="95.25" y="177.8" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="95.25" y="177.8" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="95.25" y="177.8" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="95.25" y="177.8" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="26.035" y="86.3908" size="1.27" layer="27" ratio="6" rot="R90"/>
 </element>
 <element name="R40" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="160.02" y="90.17" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="299.72" y="-104.14" size="1.778" layer="27" display="off"/>
@@ -2597,7 +2563,6 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="299.72" y="-104.14" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_NAME" value="Yageo" x="299.72" y="-104.14" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="162.5908" y="89.535" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="161.5932" y="86.995" size="1.27" layer="21" ratio="6"/>
 </element>
 <element name="R411" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="209.55" y="88.9" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="349.25" y="-140.97" size="1.778" layer="27" display="off"/>
@@ -2623,45 +2588,40 @@ design rules under a new name.</description>
 <attribute name="NAME" x="217.805" y="74.9608" size="1.27" layer="27" ratio="6" rot="R90"/>
 <attribute name="VALUE" x="218.7432" y="70.485" size="1.27" layer="21" ratio="6"/>
 </element>
-<element name="R5" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="2.54" y="69.85" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="142.24" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="142.24" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="142.24" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="142.24" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="5.1108" y="69.215" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="2.8432" y="66.675" size="1.27" layer="21" ratio="6"/>
+<element name="R5" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="22.86" y="83.82" smashed="yes" rot="R90">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="92.71" y="223.52" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="92.71" y="223.52" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="92.71" y="223.52" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="92.71" y="223.52" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="23.495" y="86.3908" size="1.27" layer="27" ratio="6" rot="R90"/>
 </element>
-<element name="R6" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="2.54" y="76.2" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="187.96" y="6.35" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="187.96" y="6.35" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="187.96" y="6.35" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="187.96" y="6.35" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="5.1108" y="75.565" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="2.8432" y="73.025" size="1.27" layer="21" ratio="6"/>
+<element name="R6" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="20.32" y="83.82" smashed="yes" rot="R90">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="90.17" y="269.24" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="90.17" y="269.24" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="90.17" y="269.24" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="90.17" y="269.24" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="20.955" y="86.3908" size="1.27" layer="27" ratio="6" rot="R90"/>
 </element>
-<element name="R7" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="2.54" y="82.55" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="233.68" y="12.7" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="233.68" y="12.7" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="233.68" y="12.7" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="233.68" y="12.7" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="5.1108" y="81.915" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="2.8432" y="79.375" size="1.27" layer="21" ratio="6"/>
+<element name="R7" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="17.78" y="83.82" smashed="yes" rot="R90">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="87.63" y="314.96" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="87.63" y="314.96" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="87.63" y="314.96" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="87.63" y="314.96" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="18.415" y="86.3908" size="1.27" layer="27" ratio="6" rot="R90"/>
 </element>
-<element name="R8" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="2.54" y="88.9" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="50.8" y="1.27" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="50.8" y="1.27" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="50.8" y="1.27" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="50.8" y="1.27" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="5.1108" y="88.265" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="2.8432" y="85.725" size="1.27" layer="21" ratio="6"/>
+<element name="R8" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="15.24" y="83.82" smashed="yes" rot="R90">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="102.87" y="132.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="102.87" y="132.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="102.87" y="132.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="102.87" y="132.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="15.875" y="86.3908" size="1.27" layer="27" ratio="6" rot="R90"/>
 </element>
-<element name="R9" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="39.37" y="45.72" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="133.35" y="-41.91" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="133.35" y="-41.91" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="133.35" y="-41.91" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="Yageo" x="133.35" y="-41.91" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="41.9408" y="45.085" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="39.6732" y="42.545" size="1.27" layer="21" ratio="6"/>
+<element name="R9" library="2022-07-17_18-22-41_Library" package="YAG_MF25_YAG" value="MFR-25FRF52-10KYAG_MF25_YAG" x="40.64" y="95.885" smashed="yes" rot="R270">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="-46.99" y="1.905" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="10.0KXTR-ND" x="-46.99" y="1.905" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MFR-25FRF52-10K" x="-46.99" y="1.905" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="-46.99" y="1.905" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="40.005" y="93.3142" size="1.27" layer="27" ratio="6" rot="R270"/>
 </element>
 <element name="SJ1" library="jumper" library_urn="urn:adsk.eagle:library:252" package="SJ" package3d_urn="urn:adsk.eagle:package:15471/1" value="" x="227.33" y="24.13" smashed="yes">
 <attribute name="NAME" x="225.679" y="25.273" size="1.27" layer="25" ratio="10"/>
@@ -2719,42 +2679,40 @@ design rules under a new name.</description>
 <attribute name="POPULARITY" value="48" x="11.43" y="-129.54" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="244.729" y="73.66" size="1.27" layer="27" ratio="10" rot="R270"/>
 </element>
-<element name="SV5" library="con-lstb" library_urn="urn:adsk.eagle:library:162" package="MA13-1" package3d_urn="urn:adsk.eagle:package:8367/1" value="" x="60.96" y="1.27" smashed="yes">
-<attribute name="MF" value="" x="173.99" y="-236.22" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="173.99" y="-236.22" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="44.45" y="2.921" size="1.27" layer="25" ratio="10"/>
-<attribute name="OC_FARNELL" value="unknown" x="173.99" y="-236.22" size="1.778" layer="27" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="173.99" y="-236.22" size="1.778" layer="27" display="off"/>
-<attribute name="POPULARITY" value="0" x="173.99" y="-236.22" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="60.96" y="-1.651" size="1.27" layer="27" ratio="10"/>
+<element name="SV5" library="con-lstb" library_urn="urn:adsk.eagle:library:162" package="MA13-1" package3d_urn="urn:adsk.eagle:package:8367/1" value="" x="62.865" y="40.005" smashed="yes">
+<attribute name="MF" value="" x="175.895" y="-197.485" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="" x="175.895" y="-197.485" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="46.355" y="41.656" size="1.27" layer="25" ratio="10"/>
+<attribute name="OC_FARNELL" value="unknown" x="175.895" y="-197.485" size="1.778" layer="27" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="175.895" y="-197.485" size="1.778" layer="27" display="off"/>
+<attribute name="POPULARITY" value="0" x="175.895" y="-197.485" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="62.865" y="37.084" size="1.27" layer="27" ratio="10"/>
 </element>
-<element name="SV6" library="con-lstb" library_urn="urn:adsk.eagle:library:162" package="MA13-1" package3d_urn="urn:adsk.eagle:package:8367/1" value="" x="26.67" y="1.27" smashed="yes">
-<attribute name="MF" value="" x="173.99" y="-236.22" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="173.99" y="-236.22" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="10.16" y="2.921" size="1.27" layer="25" ratio="10"/>
-<attribute name="OC_FARNELL" value="unknown" x="173.99" y="-236.22" size="1.778" layer="27" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="173.99" y="-236.22" size="1.778" layer="27" display="off"/>
-<attribute name="POPULARITY" value="0" x="173.99" y="-236.22" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="26.67" y="-1.651" size="1.27" layer="27" ratio="10"/>
+<element name="SV6" library="con-lstb" library_urn="urn:adsk.eagle:library:162" package="MA13-1" package3d_urn="urn:adsk.eagle:package:8367/1" value="" x="20.955" y="40.005" smashed="yes" rot="R180">
+<attribute name="MF" value="" x="-126.365" y="277.495" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="" x="-126.365" y="277.495" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="37.465" y="38.354" size="1.27" layer="25" ratio="10" rot="R180"/>
+<attribute name="OC_FARNELL" value="unknown" x="-126.365" y="277.495" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="-126.365" y="277.495" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="POPULARITY" value="0" x="-126.365" y="277.495" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="20.955" y="42.926" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
-<element name="U$1" library="bluepill_eagle_lib" package="STM32F103C8T6-MODULE" value="STM32F103C8T6-MODULE" x="33.02" y="19.05" smashed="yes"/>
-<element name="U1" library="2022-07-17_01-24-19_Library" package="SOIC-16_ONS" value="MC74HC165ADGSOIC-16_ONS" x="81.28" y="19.05" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="119.38" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="MC74HC165ADGOS-ND" x="119.38" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_2" value="2156-MC74HC165ADG-OS-ND" x="119.38" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MC74HC165ADG" x="119.38" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="onsemi" x="119.38" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="80.5488" y="19.685" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="78.2812" y="15.875" size="1.27" layer="21" ratio="6"/>
+<element name="U$1" library="bluepill_eagle_lib" package="STM32F103C8T6-MODULE" value="STM32F103C8T6-MODULE" x="43.18" y="58.42" smashed="yes"/>
+<element name="U1" library="2022-07-17_01-24-19_Library" package="SOIC-16_ONS" value="MC74HC165ADGSOIC-16_ONS" x="24.13" y="76.2" smashed="yes">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="62.23" y="57.15" size="1.778" layer="27" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="MC74HC165ADGOS-ND" x="62.23" y="57.15" size="1.778" layer="27" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_2" value="2156-MC74HC165ADG-OS-ND" x="62.23" y="57.15" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MC74HC165ADG" x="62.23" y="57.15" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="onsemi" x="62.23" y="57.15" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="23.3988" y="76.835" size="1.27" layer="27" ratio="6"/>
 </element>
-<element name="U2" library="2022-07-17_01-24-19_Library" package="SOIC-16_ONS" value="MC74HC165ADGSOIC-16_ONS" x="106.68" y="19.05" smashed="yes">
-<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="186.69" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_1" value="MC74HC165ADGOS-ND" x="186.69" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER_2" value="2156-MC74HC165ADG-OS-ND" x="186.69" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MC74HC165ADG" x="186.69" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFR_NAME" value="onsemi" x="186.69" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="105.9488" y="19.685" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="103.6812" y="15.875" size="1.27" layer="21" ratio="6"/>
+<element name="U2" library="2022-07-17_01-24-19_Library" package="SOIC-16_ONS" value="MC74HC165ADGSOIC-16_ONS" x="46.355" y="76.835" smashed="yes" rot="R270">
+<attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="27.305" y="-3.175" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_1" value="MC74HC165ADGOS-ND" x="27.305" y="-3.175" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER_2" value="2156-MC74HC165ADG-OS-ND" x="27.305" y="-3.175" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MC74HC165ADG" x="27.305" y="-3.175" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="onsemi" x="27.305" y="-3.175" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="46.99" y="77.5662" size="1.27" layer="27" ratio="6" rot="R270"/>
 </element>
 <element name="U3" library="2022-07-17_01-24-19_Library" package="SOIC-16_ONS" value="MC74HC165ADGSOIC-16_ONS" x="129.54" y="19.05" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." x="251.46" y="0" size="1.778" layer="27" display="off"/>
@@ -2794,20 +2752,20 @@ design rules under a new name.</description>
 <attribute name="NAME" x="197.3888" y="56.515" size="1.27" layer="27" ratio="6"/>
 <attribute name="VALUE" x="195.1212" y="51.435" size="1.27" layer="21" ratio="6"/>
 </element>
-<element name="X1" library="con-garry" library_urn="urn:adsk.eagle:library:147" package="332-16" package3d_urn="urn:adsk.eagle:package:6817/1" value="332-16" x="21.59" y="96.52" smashed="yes" rot="R180">
-<attribute name="NAME" x="29.21" y="93.98" size="1.27" layer="25" rot="R180"/>
-<attribute name="POPULARITY" value="0" x="0" y="337.82" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="22.86" y="93.98" size="1.27" layer="27" rot="R180"/>
+<element name="X1" library="con-garry" library_urn="urn:adsk.eagle:library:147" package="332-16" package3d_urn="urn:adsk.eagle:package:6817/1" value="332-16" x="24.13" y="99.695" smashed="yes" rot="R180">
+<attribute name="NAME" x="31.75" y="97.155" size="1.27" layer="25" rot="R180"/>
+<attribute name="POPULARITY" value="0" x="2.54" y="340.995" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="25.4" y="97.155" size="1.27" layer="27" rot="R180"/>
 </element>
-<element name="X2" library="con-garry" library_urn="urn:adsk.eagle:library:147" package="332-16" package3d_urn="urn:adsk.eagle:package:6817/1" value="332-16" x="58.42" y="96.52" smashed="yes" rot="R180">
-<attribute name="NAME" x="66.04" y="93.98" size="1.27" layer="25" rot="R180"/>
-<attribute name="POPULARITY" value="0" x="20.32" y="337.82" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="59.69" y="93.98" size="1.27" layer="27" rot="R180"/>
+<element name="X2" library="con-garry" library_urn="urn:adsk.eagle:library:147" package="332-16" package3d_urn="urn:adsk.eagle:package:6817/1" value="332-16" x="46.99" y="99.695" smashed="yes" rot="R180">
+<attribute name="NAME" x="54.61" y="97.155" size="1.27" layer="25" rot="R180"/>
+<attribute name="POPULARITY" value="0" x="8.89" y="340.995" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="48.26" y="97.155" size="1.27" layer="27" rot="R180"/>
 </element>
-<element name="X3" library="con-garry" library_urn="urn:adsk.eagle:library:147" package="332-16" package3d_urn="urn:adsk.eagle:package:6817/1" value="332-16" x="97.79" y="96.52" smashed="yes" rot="R180">
-<attribute name="NAME" x="105.41" y="93.98" size="1.27" layer="25" rot="R180"/>
-<attribute name="POPULARITY" value="0" x="43.18" y="337.82" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="99.06" y="93.98" size="1.27" layer="27" rot="R180"/>
+<element name="X3" library="con-garry" library_urn="urn:adsk.eagle:library:147" package="332-16" package3d_urn="urn:adsk.eagle:package:6817/1" value="332-16" x="69.85" y="99.695" smashed="yes" rot="R180">
+<attribute name="NAME" x="77.47" y="97.155" size="1.27" layer="25" rot="R180"/>
+<attribute name="POPULARITY" value="0" x="15.24" y="340.995" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="71.12" y="97.155" size="1.27" layer="27" rot="R180"/>
 </element>
 <element name="X4" library="con-garry" library_urn="urn:adsk.eagle:library:147" package="332-16" package3d_urn="urn:adsk.eagle:package:6817/1" value="332-16" x="137.16" y="96.52" smashed="yes" rot="R180">
 <attribute name="NAME" x="144.78" y="93.98" size="1.27" layer="25" rot="R180"/>
@@ -2824,12 +2782,12 @@ design rules under a new name.</description>
 <signal name="N$1">
 <contactref element="U1" pad="9"/>
 <contactref element="U2" pad="10"/>
-<wire x1="83.9851" y1="14.605" x2="109.3851" y2="15.875" width="0" layer="19" extent="1-1"/>
+<wire x1="26.8351" y1="71.755" x2="43.18" y2="74.1299" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$42">
 <contactref element="U2" pad="9"/>
 <contactref element="U3" pad="10"/>
-<wire x1="109.3851" y1="14.605" x2="132.2451" y2="15.875" width="0" layer="19" extent="1-1"/>
+<wire x1="41.91" y1="74.1299" x2="132.2451" y2="15.875" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$45">
 <contactref element="U3" pad="9"/>
@@ -2844,7 +2802,7 @@ design rules under a new name.</description>
 <signal name="N$47">
 <contactref element="U$1" pad="PA_4"/>
 <contactref element="U5" pad="9"/>
-<wire x1="38.1" y1="26.67" x2="177.9651" y2="14.605" width="0" layer="19" extent="1-1"/>
+<wire x1="48.26" y1="66.04" x2="177.9651" y2="14.605" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$48">
 <contactref element="U5" pad="1"/>
@@ -2855,9 +2813,9 @@ design rules under a new name.</description>
 <contactref element="U$1" pad="PA_5"/>
 <wire x1="149.6949" y1="23.495" x2="172.5549" y2="23.495" width="0" layer="19" extent="1-1"/>
 <wire x1="126.8349" y1="23.495" x2="149.6949" y2="23.495" width="0" layer="19" extent="1-1"/>
-<wire x1="103.9749" y1="23.495" x2="126.8349" y2="23.495" width="0" layer="19" extent="1-1"/>
-<wire x1="78.5749" y1="23.495" x2="103.9749" y2="23.495" width="0" layer="19" extent="1-1"/>
-<wire x1="35.56" y1="26.67" x2="78.5749" y2="23.495" width="0" layer="19" extent="1-1"/>
+<wire x1="50.8" y1="79.5401" x2="126.8349" y2="23.495" width="0" layer="19" extent="1-1"/>
+<wire x1="21.4249" y1="80.645" x2="50.8" y2="79.5401" width="0" layer="19" extent="1-1"/>
+<wire x1="45.72" y1="66.04" x2="21.4249" y2="80.645" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$44">
 <contactref element="R111" pad="1"/>
@@ -2889,7 +2847,7 @@ design rules under a new name.</description>
 <wire x1="195.3133" y1="52.07" x2="195.3133" y2="50.8" width="0" layer="19" extent="1-1"/>
 <wire x1="202.438" y1="44.45" x2="195.3133" y2="50.8" width="0" layer="19" extent="1-1"/>
 <wire x1="212.09" y1="35.179" x2="202.438" y2="44.45" width="0" layer="19" extent="1-1"/>
-<wire x1="33.02" y1="26.67" x2="195.3133" y2="50.8" width="0" layer="19" extent="1-1"/>
+<wire x1="43.18" y1="66.04" x2="195.3133" y2="50.8" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$58">
 <contactref element="R213" pad="1"/>
@@ -2964,132 +2922,132 @@ design rules under a new name.</description>
 <signal name="N$B0">
 <contactref element="U$1" pad="PB_0"/>
 <contactref element="SV5" pad="1"/>
-<wire x1="27.94" y1="26.67" x2="45.72" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="38.1" y1="66.04" x2="47.625" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$B1">
 <contactref element="U$1" pad="PB_1"/>
 <contactref element="SV5" pad="2"/>
-<wire x1="25.4" y1="26.67" x2="48.26" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="35.56" y1="66.04" x2="50.165" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$B3">
 <contactref element="U$1" pad="PB_3"/>
 <contactref element="SV5" pad="3"/>
-<wire x1="35.56" y1="11.43" x2="50.8" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="45.72" y1="50.8" x2="52.705" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$B4">
 <contactref element="U$1" pad="PB_4"/>
 <contactref element="SV5" pad="4"/>
-<wire x1="38.1" y1="11.43" x2="53.34" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="48.26" y1="50.8" x2="55.245" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$B5">
 <contactref element="U$1" pad="PB_5"/>
 <contactref element="SV5" pad="5"/>
-<wire x1="40.64" y1="11.43" x2="55.88" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="50.8" y1="50.8" x2="57.785" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$B6">
 <contactref element="U$1" pad="PB_6"/>
 <contactref element="SV5" pad="6"/>
-<wire x1="43.18" y1="11.43" x2="58.42" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="53.34" y1="50.8" x2="60.325" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$B7">
 <contactref element="U$1" pad="PB_7"/>
 <contactref element="SV5" pad="7"/>
-<wire x1="45.72" y1="11.43" x2="60.96" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="55.88" y1="50.8" x2="62.865" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$B8">
 <contactref element="U$1" pad="PB_8"/>
 <contactref element="SV5" pad="8"/>
-<wire x1="48.26" y1="11.43" x2="63.5" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="58.42" y1="50.8" x2="65.405" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$B9">
 <contactref element="U$1" pad="PB_9"/>
 <contactref element="SV5" pad="9"/>
-<wire x1="50.8" y1="11.43" x2="66.04" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="60.96" y1="50.8" x2="67.945" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$B10">
 <contactref element="U$1" pad="PB_10"/>
 <contactref element="SV5" pad="10"/>
-<wire x1="22.86" y1="26.67" x2="68.58" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="33.02" y1="66.04" x2="70.485" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$B11">
 <contactref element="U$1" pad="PB_11"/>
 <contactref element="SV5" pad="11"/>
-<wire x1="20.32" y1="26.67" x2="71.12" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="30.48" y1="66.04" x2="73.025" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$B12">
 <contactref element="U$1" pad="PB_12"/>
 <contactref element="SV5" pad="12"/>
-<wire x1="10.16" y1="11.43" x2="73.66" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="20.32" y1="50.8" x2="75.565" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$B13">
 <contactref element="U$1" pad="PB_13"/>
 <contactref element="SV5" pad="13"/>
-<wire x1="12.7" y1="11.43" x2="76.2" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="22.86" y1="50.8" x2="78.105" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$B14">
 <contactref element="U$1" pad="PB_14"/>
 <contactref element="SV6" pad="1"/>
-<wire x1="15.24" y1="11.43" x2="11.43" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="25.4" y1="50.8" x2="36.195" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$B15">
 <contactref element="U$1" pad="PB_15"/>
 <contactref element="SV6" pad="2"/>
-<wire x1="17.78" y1="11.43" x2="13.97" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="27.94" y1="50.8" x2="33.655" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$A8">
 <contactref element="U$1" pad="PA_8"/>
 <contactref element="SV6" pad="13"/>
-<wire x1="20.32" y1="11.43" x2="41.91" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="30.48" y1="50.8" x2="5.715" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$A9">
 <contactref element="U$1" pad="PA_9"/>
 <contactref element="SV6" pad="12"/>
-<wire x1="22.86" y1="11.43" x2="39.37" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="33.02" y1="50.8" x2="8.255" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$A10">
 <contactref element="U$1" pad="PA_10"/>
 <contactref element="SV6" pad="11"/>
-<wire x1="25.4" y1="11.43" x2="36.83" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="35.56" y1="50.8" x2="10.795" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$A11">
 <contactref element="U$1" pad="PA_11"/>
 <contactref element="SV6" pad="10"/>
-<wire x1="27.94" y1="11.43" x2="34.29" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="38.1" y1="50.8" x2="13.335" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$A12">
 <contactref element="U$1" pad="PA_12"/>
 <contactref element="SV6" pad="9"/>
-<wire x1="30.48" y1="11.43" x2="31.75" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="40.64" y1="50.8" x2="15.875" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$A15">
 <contactref element="U$1" pad="PA_15"/>
 <contactref element="SV6" pad="8"/>
-<wire x1="33.02" y1="11.43" x2="29.21" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="43.18" y1="50.8" x2="18.415" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$95">
 <contactref element="U$1" pad="PA_2"/>
 <contactref element="SV6" pad="7"/>
-<wire x1="43.18" y1="26.67" x2="26.67" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="53.34" y1="66.04" x2="20.955" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$C13">
 <contactref element="U$1" pad="PC_13"/>
 <contactref element="SV6" pad="3"/>
-<wire x1="55.88" y1="26.67" x2="16.51" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="66.04" y1="66.04" x2="31.115" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$C14">
 <contactref element="U$1" pad="PC_14"/>
 <contactref element="SV6" pad="4"/>
-<wire x1="53.34" y1="26.67" x2="19.05" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="63.5" y1="66.04" x2="28.575" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$C15">
 <contactref element="U$1" pad="PC_15"/>
 <contactref element="SV6" pad="5"/>
-<wire x1="50.8" y1="26.67" x2="21.59" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="60.96" y1="66.04" x2="26.035" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$99">
 <contactref element="U$1" pad="5V"/>
 <contactref element="SV6" pad="6"/>
-<wire x1="53.34" y1="11.43" x2="24.13" y2="1.27" width="0" layer="19" extent="1-1"/>
+<wire x1="63.5" y1="50.8" x2="23.495" y2="40.005" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="VCC">
 <contactref element="SV1" pad="1"/>
@@ -3162,34 +3120,34 @@ design rules under a new name.</description>
 <wire x1="118.11" y1="76.2" x2="118.11" y2="69.85" width="0" layer="19" extent="1-1"/>
 <wire x1="118.11" y1="82.55" x2="118.11" y2="76.2" width="0" layer="19" extent="1-1"/>
 <wire x1="118.11" y1="88.9" x2="118.11" y2="82.55" width="0" layer="19" extent="1-1"/>
-<wire x1="109.3851" y1="23.495" x2="118.11" y2="44.45" width="0" layer="19" extent="1-1"/>
+<wire x1="50.8" y1="74.1299" x2="118.11" y2="44.45" width="0" layer="19" extent="1-1"/>
 <wire x1="193.421" y1="12.7" x2="177.9651" y2="23.495" width="0" layer="19" extent="1-1"/>
-<wire x1="83.9851" y1="23.495" x2="109.3851" y2="23.495" width="0" layer="19" extent="1-1"/>
-<wire x1="78.74" y1="44.45" x2="83.9851" y2="23.495" width="0" layer="19" extent="1-1"/>
-<wire x1="78.74" y1="50.8" x2="78.74" y2="44.45" width="0" layer="19" extent="1-1"/>
-<wire x1="78.74" y1="57.15" x2="78.74" y2="50.8" width="0" layer="19" extent="1-1"/>
-<wire x1="78.74" y1="63.5" x2="78.74" y2="57.15" width="0" layer="19" extent="1-1"/>
-<wire x1="78.74" y1="69.85" x2="78.74" y2="63.5" width="0" layer="19" extent="1-1"/>
-<wire x1="78.74" y1="76.2" x2="78.74" y2="69.85" width="0" layer="19" extent="1-1"/>
-<wire x1="78.74" y1="82.55" x2="78.74" y2="76.2" width="0" layer="19" extent="1-1"/>
-<wire x1="78.74" y1="88.9" x2="78.74" y2="82.55" width="0" layer="19" extent="1-1"/>
-<wire x1="58.42" y1="11.43" x2="83.9851" y2="23.495" width="0" layer="19" extent="1-1"/>
-<wire x1="2.54" y1="44.45" x2="15.24" y2="26.67" width="0" layer="19" extent="1-1"/>
-<wire x1="2.54" y1="50.8" x2="2.54" y2="44.45" width="0" layer="19" extent="1-1"/>
-<wire x1="2.54" y1="57.15" x2="2.54" y2="50.8" width="0" layer="19" extent="1-1"/>
-<wire x1="2.54" y1="63.5" x2="2.54" y2="57.15" width="0" layer="19" extent="1-1"/>
-<wire x1="2.54" y1="69.85" x2="2.54" y2="63.5" width="0" layer="19" extent="1-1"/>
-<wire x1="2.54" y1="76.2" x2="2.54" y2="69.85" width="0" layer="19" extent="1-1"/>
-<wire x1="2.54" y1="82.55" x2="2.54" y2="76.2" width="0" layer="19" extent="1-1"/>
-<wire x1="2.54" y1="88.9" x2="2.54" y2="82.55" width="0" layer="19" extent="1-1"/>
-<wire x1="39.37" y1="45.72" x2="15.24" y2="26.67" width="0" layer="19" extent="1-1"/>
-<wire x1="39.37" y1="52.07" x2="39.37" y2="45.72" width="0" layer="19" extent="1-1"/>
-<wire x1="39.37" y1="58.42" x2="39.37" y2="52.07" width="0" layer="19" extent="1-1"/>
-<wire x1="39.37" y1="64.77" x2="39.37" y2="58.42" width="0" layer="19" extent="1-1"/>
-<wire x1="39.37" y1="71.12" x2="39.37" y2="64.77" width="0" layer="19" extent="1-1"/>
-<wire x1="39.37" y1="77.47" x2="39.37" y2="71.12" width="0" layer="19" extent="1-1"/>
-<wire x1="39.37" y1="83.82" x2="39.37" y2="77.47" width="0" layer="19" extent="1-1"/>
-<wire x1="39.37" y1="90.17" x2="39.37" y2="83.82" width="0" layer="19" extent="1-1"/>
+<wire x1="26.8351" y1="80.645" x2="50.8" y2="74.1299" width="0" layer="19" extent="1-1"/>
+<wire x1="78.74" y1="83.82" x2="26.8351" y2="80.645" width="0" layer="19" extent="1-1"/>
+<wire x1="76.2" y1="83.82" x2="78.74" y2="83.82" width="0" layer="19" extent="1-1"/>
+<wire x1="73.66" y1="83.82" x2="76.2" y2="83.82" width="0" layer="19" extent="1-1"/>
+<wire x1="71.12" y1="83.82" x2="73.66" y2="83.82" width="0" layer="19" extent="1-1"/>
+<wire x1="68.58" y1="83.82" x2="71.12" y2="83.82" width="0" layer="19" extent="1-1"/>
+<wire x1="66.04" y1="83.82" x2="68.58" y2="83.82" width="0" layer="19" extent="1-1"/>
+<wire x1="63.5" y1="83.82" x2="66.04" y2="83.82" width="0" layer="19" extent="1-1"/>
+<wire x1="60.96" y1="83.82" x2="63.5" y2="83.82" width="0" layer="19" extent="1-1"/>
+<wire x1="68.58" y1="50.8" x2="26.8351" y2="80.645" width="0" layer="19" extent="1-1"/>
+<wire x1="33.02" y1="83.82" x2="25.4" y2="66.04" width="0" layer="19" extent="1-1"/>
+<wire x1="30.48" y1="83.82" x2="33.02" y2="83.82" width="0" layer="19" extent="1-1"/>
+<wire x1="27.94" y1="83.82" x2="30.48" y2="83.82" width="0" layer="19" extent="1-1"/>
+<wire x1="25.4" y1="83.82" x2="27.94" y2="83.82" width="0" layer="19" extent="1-1"/>
+<wire x1="22.86" y1="83.82" x2="25.4" y2="83.82" width="0" layer="19" extent="1-1"/>
+<wire x1="20.32" y1="83.82" x2="22.86" y2="83.82" width="0" layer="19" extent="1-1"/>
+<wire x1="17.78" y1="83.82" x2="20.32" y2="83.82" width="0" layer="19" extent="1-1"/>
+<wire x1="15.24" y1="83.82" x2="17.78" y2="83.82" width="0" layer="19" extent="1-1"/>
+<wire x1="40.64" y1="95.885" x2="25.4" y2="66.04" width="0" layer="19" extent="1-1"/>
+<wire x1="45.72" y1="95.885" x2="40.64" y2="95.885" width="0" layer="19" extent="1-1"/>
+<wire x1="50.8" y1="95.885" x2="45.72" y2="95.885" width="0" layer="19" extent="1-1"/>
+<wire x1="55.88" y1="95.885" x2="50.8" y2="95.885" width="0" layer="19" extent="1-1"/>
+<wire x1="53.34" y1="95.885" x2="55.88" y2="95.885" width="0" layer="19" extent="1-1"/>
+<wire x1="48.26" y1="95.885" x2="53.34" y2="95.885" width="0" layer="19" extent="1-1"/>
+<wire x1="43.18" y1="95.885" x2="48.26" y2="95.885" width="0" layer="19" extent="1-1"/>
+<wire x1="38.1" y1="95.885" x2="43.18" y2="95.885" width="0" layer="19" extent="1-1"/>
 <wire x1="247.65" y1="26.67" x2="193.421" y2="12.7" width="0" layer="19" extent="1-1"/>
 <wire x1="247.65" y1="41.91" x2="247.65" y2="26.67" width="0" layer="19" extent="1-1"/>
 <wire x1="247.65" y1="55.88" x2="247.65" y2="41.91" width="0" layer="19" extent="1-1"/>
@@ -3222,7 +3180,7 @@ design rules under a new name.</description>
 <contactref element="U6" pad="13"/>
 <contactref element="C32" pad="+"/>
 <contactref element="SJ3" pad="1"/>
-<wire x1="200.9267" y1="57.15" x2="48.26" y2="26.67" width="0" layer="19" extent="1-1"/>
+<wire x1="200.9267" y1="57.15" x2="58.42" y2="66.04" width="0" layer="19" extent="1-1"/>
 <wire x1="200.9267" y1="58.42" x2="200.9267" y2="57.15" width="0" layer="19" extent="1-1"/>
 <wire x1="202.438" y1="67.31" x2="200.9267" y2="58.42" width="0" layer="19" extent="1-1"/>
 <wire x1="210.82" y1="58.039" x2="200.9267" y2="58.42" width="0" layer="19" extent="1-1"/>
@@ -3236,7 +3194,7 @@ design rules under a new name.</description>
 <wire x1="200.9267" y1="52.07" x2="200.9267" y2="50.8" width="0" layer="19" extent="1-1"/>
 <wire x1="212.09" y1="79.629" x2="200.9267" y2="52.07" width="0" layer="19" extent="1-1"/>
 <wire x1="202.438" y1="88.9" x2="212.09" y2="79.629" width="0" layer="19" extent="1-1"/>
-<wire x1="45.72" y1="26.67" x2="200.9267" y2="50.8" width="0" layer="19" extent="1-1"/>
+<wire x1="55.88" y1="66.04" x2="200.9267" y2="50.8" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$53">
 <contactref element="U6" pad="1"/>
@@ -3247,7 +3205,7 @@ design rules under a new name.</description>
 <wire x1="195.3133" y1="57.15" x2="195.3133" y2="58.42" width="0" layer="19" extent="1-1"/>
 <wire x1="226.568" y1="24.13" x2="195.3133" y2="57.15" width="0" layer="19" extent="1-1"/>
 <wire x1="226.949" y1="5.08" x2="226.568" y2="24.13" width="0" layer="19" extent="1-1"/>
-<wire x1="30.48" y1="26.67" x2="195.3133" y2="57.15" width="0" layer="19" extent="1-1"/>
+<wire x1="40.64" y1="66.04" x2="195.3133" y2="57.15" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="DGND">
 <contactref element="SV1" pad="3"/>
@@ -3339,10 +3297,10 @@ design rules under a new name.</description>
 <wire x1="149.6949" y1="14.605" x2="155.1051" y2="22.225" width="0" layer="19" extent="1-1"/>
 <wire x1="132.2451" y1="22.225" x2="149.6949" y2="14.605" width="0" layer="19" extent="1-1"/>
 <wire x1="126.8349" y1="14.605" x2="132.2451" y2="22.225" width="0" layer="19" extent="1-1"/>
-<wire x1="109.3851" y1="22.225" x2="126.8349" y2="14.605" width="0" layer="19" extent="1-1"/>
-<wire x1="103.9749" y1="14.605" x2="109.3851" y2="22.225" width="0" layer="19" extent="1-1"/>
-<wire x1="83.9851" y1="22.225" x2="103.9749" y2="14.605" width="0" layer="19" extent="1-1"/>
-<wire x1="78.5749" y1="14.605" x2="83.9851" y2="22.225" width="0" layer="19" extent="1-1"/>
+<wire x1="49.53" y1="74.1299" x2="126.8349" y2="14.605" width="0" layer="19" extent="1-1"/>
+<wire x1="41.91" y1="79.5401" x2="49.53" y2="74.1299" width="0" layer="19" extent="1-1"/>
+<wire x1="26.8351" y1="79.375" x2="41.91" y2="79.5401" width="0" layer="19" extent="1-1"/>
+<wire x1="21.4249" y1="71.755" x2="26.8351" y2="79.375" width="0" layer="19" extent="1-1"/>
 <wire x1="186.07" y1="97.52" x2="207.01" y2="82.931" width="0" layer="19" extent="1-1"/>
 <wire x1="184.07" y1="97.52" x2="186.07" y2="97.52" width="0" layer="19" extent="1-1"/>
 <wire x1="182.07" y1="97.52" x2="184.07" y2="97.52" width="0" layer="19" extent="1-1"/>
@@ -3351,7 +3309,7 @@ design rules under a new name.</description>
 <wire x1="176.07" y1="97.52" x2="178.07" y2="97.52" width="0" layer="19" extent="1-1"/>
 <wire x1="174.07" y1="97.52" x2="176.07" y2="97.52" width="0" layer="19" extent="1-1"/>
 <wire x1="172.07" y1="97.52" x2="174.07" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="55.88" y1="11.43" x2="78.5749" y2="14.605" width="0" layer="19" extent="1-1"/>
+<wire x1="66.04" y1="50.8" x2="21.4249" y2="71.755" width="0" layer="19" extent="1-1"/>
 <wire x1="144.16" y1="97.52" x2="172.07" y2="97.52" width="0" layer="19" extent="1-1"/>
 <wire x1="142.16" y1="97.52" x2="144.16" y2="97.52" width="0" layer="19" extent="1-1"/>
 <wire x1="140.16" y1="97.52" x2="142.16" y2="97.52" width="0" layer="19" extent="1-1"/>
@@ -3360,30 +3318,30 @@ design rules under a new name.</description>
 <wire x1="134.16" y1="97.52" x2="136.16" y2="97.52" width="0" layer="19" extent="1-1"/>
 <wire x1="132.16" y1="97.52" x2="134.16" y2="97.52" width="0" layer="19" extent="1-1"/>
 <wire x1="130.16" y1="97.52" x2="132.16" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="104.79" y1="97.52" x2="130.16" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="102.79" y1="97.52" x2="104.79" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="100.79" y1="97.52" x2="102.79" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="98.79" y1="97.52" x2="100.79" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="96.79" y1="97.52" x2="98.79" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="94.79" y1="97.52" x2="96.79" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="92.79" y1="97.52" x2="94.79" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="90.79" y1="97.52" x2="92.79" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="65.42" y1="97.52" x2="90.79" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="63.42" y1="97.52" x2="65.42" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="61.42" y1="97.52" x2="63.42" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="59.42" y1="97.52" x2="61.42" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="57.42" y1="97.52" x2="59.42" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="55.42" y1="97.52" x2="57.42" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="53.42" y1="97.52" x2="55.42" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="51.42" y1="97.52" x2="53.42" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="28.59" y1="97.52" x2="51.42" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="26.59" y1="97.52" x2="28.59" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="24.59" y1="97.52" x2="26.59" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="22.59" y1="97.52" x2="24.59" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="20.59" y1="97.52" x2="22.59" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="18.59" y1="97.52" x2="20.59" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="16.59" y1="97.52" x2="18.59" y2="97.52" width="0" layer="19" extent="1-1"/>
-<wire x1="14.59" y1="97.52" x2="16.59" y2="97.52" width="0" layer="19" extent="1-1"/>
+<wire x1="76.85" y1="100.695" x2="130.16" y2="97.52" width="0" layer="19" extent="1-1"/>
+<wire x1="74.85" y1="100.695" x2="76.85" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="72.85" y1="100.695" x2="74.85" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="70.85" y1="100.695" x2="72.85" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="68.85" y1="100.695" x2="70.85" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="66.85" y1="100.695" x2="68.85" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="64.85" y1="100.695" x2="66.85" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="62.85" y1="100.695" x2="64.85" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="53.99" y1="100.695" x2="62.85" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="51.99" y1="100.695" x2="53.99" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="49.99" y1="100.695" x2="51.99" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="47.99" y1="100.695" x2="49.99" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="45.99" y1="100.695" x2="47.99" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="43.99" y1="100.695" x2="45.99" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="41.99" y1="100.695" x2="43.99" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="39.99" y1="100.695" x2="41.99" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="31.13" y1="100.695" x2="39.99" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="29.13" y1="100.695" x2="31.13" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="27.13" y1="100.695" x2="29.13" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="25.13" y1="100.695" x2="27.13" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="23.13" y1="100.695" x2="25.13" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="21.13" y1="100.695" x2="23.13" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="19.13" y1="100.695" x2="21.13" y2="100.695" width="0" layer="19" extent="1-1"/>
+<wire x1="17.13" y1="100.695" x2="19.13" y2="100.695" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$33">
 <contactref element="R33" pad="2"/>
@@ -3501,169 +3459,237 @@ design rules under a new name.</description>
 <contactref element="R24" pad="2"/>
 <contactref element="U3" pad="6"/>
 <contactref element="X3" pad="16"/>
-<wire x1="90.424" y1="88.9" x2="90.79" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="126.8349" y1="17.145" x2="90.424" y2="88.9" width="0" layer="19" extent="1-1"/>
+<wire x1="60.96" y1="95.504" x2="62.85" y2="98.695" width="0" layer="19" extent="1-1"/>
+<wire x1="126.8349" y1="17.145" x2="60.96" y2="95.504" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$19">
 <contactref element="R23" pad="2"/>
 <contactref element="U3" pad="5"/>
 <contactref element="X3" pad="14"/>
-<wire x1="90.424" y1="82.55" x2="92.79" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="126.8349" y1="18.415" x2="90.424" y2="82.55" width="0" layer="19" extent="1-1"/>
+<wire x1="63.5" y1="95.504" x2="64.85" y2="98.695" width="0" layer="19" extent="1-1"/>
+<wire x1="126.8349" y1="18.415" x2="63.5" y2="95.504" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$20">
 <contactref element="R22" pad="2"/>
 <contactref element="U3" pad="4"/>
 <contactref element="X3" pad="12"/>
-<wire x1="90.424" y1="76.2" x2="94.79" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="126.8349" y1="19.685" x2="90.424" y2="76.2" width="0" layer="19" extent="1-1"/>
+<wire x1="66.04" y1="95.504" x2="66.85" y2="98.695" width="0" layer="19" extent="1-1"/>
+<wire x1="126.8349" y1="19.685" x2="66.04" y2="95.504" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$21">
 <contactref element="R21" pad="2"/>
 <contactref element="U3" pad="3"/>
 <contactref element="X3" pad="10"/>
-<wire x1="90.424" y1="69.85" x2="96.79" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="126.8349" y1="20.955" x2="90.424" y2="69.85" width="0" layer="19" extent="1-1"/>
+<wire x1="68.58" y1="95.504" x2="68.85" y2="98.695" width="0" layer="19" extent="1-1"/>
+<wire x1="126.8349" y1="20.955" x2="68.58" y2="95.504" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$22">
 <contactref element="R20" pad="2"/>
 <contactref element="U3" pad="14"/>
 <contactref element="X3" pad="8"/>
-<wire x1="90.424" y1="63.5" x2="98.79" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="132.2451" y1="20.955" x2="90.424" y2="63.5" width="0" layer="19" extent="1-1"/>
+<wire x1="71.12" y1="95.504" x2="70.85" y2="98.695" width="0" layer="19" extent="1-1"/>
+<wire x1="132.2451" y1="20.955" x2="71.12" y2="95.504" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$23">
 <contactref element="R19" pad="2"/>
 <contactref element="U3" pad="13"/>
 <contactref element="X3" pad="6"/>
-<wire x1="90.424" y1="57.15" x2="100.79" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="132.2451" y1="19.685" x2="90.424" y2="57.15" width="0" layer="19" extent="1-1"/>
+<wire x1="73.66" y1="95.504" x2="72.85" y2="98.695" width="0" layer="19" extent="1-1"/>
+<wire x1="132.2451" y1="19.685" x2="73.66" y2="95.504" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$24">
 <contactref element="R18" pad="2"/>
 <contactref element="U3" pad="12"/>
 <contactref element="X3" pad="4"/>
-<wire x1="90.424" y1="50.8" x2="102.79" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="132.2451" y1="18.415" x2="90.424" y2="50.8" width="0" layer="19" extent="1-1"/>
+<wire x1="76.2" y1="95.504" x2="74.85" y2="98.695" width="0" layer="19" extent="1-1"/>
+<wire x1="132.2451" y1="18.415" x2="76.2" y2="95.504" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$60">
 <contactref element="R17" pad="2"/>
 <contactref element="U3" pad="11"/>
 <contactref element="X3" pad="2"/>
-<wire x1="90.424" y1="44.45" x2="104.79" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="132.2451" y1="17.145" x2="90.424" y2="44.45" width="0" layer="19" extent="1-1"/>
+<wire x1="78.74" y1="95.504" x2="76.85" y2="98.695" width="0" layer="19" extent="1-1"/>
+<wire x1="132.2451" y1="17.145" x2="78.74" y2="95.504" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$13">
 <contactref element="R16" pad="2"/>
 <contactref element="U2" pad="6"/>
 <contactref element="X2" pad="16"/>
-<wire x1="51.054" y1="90.17" x2="51.42" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="103.9749" y1="17.145" x2="51.054" y2="90.17" width="0" layer="19" extent="1-1"/>
+<wire x1="44.45" y1="79.5401" x2="44.45" y2="81.28" width="0.1524" layer="1"/>
+<wire x1="44.45" y1="81.28" x2="43.815" y2="81.915" width="0.1524" layer="1"/>
+<wire x1="38.735" y1="81.915" x2="38.1" y2="82.55" width="0.1524" layer="1"/>
+<wire x1="38.1" y1="82.55" x2="38.1" y2="84.201" width="0.1524" layer="1"/>
+<wire x1="43.815" y1="81.915" x2="38.735" y2="81.915" width="0.1524" layer="1"/>
+<wire x1="38.1" y1="84.201" x2="39.99" y2="98.695" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$14">
 <contactref element="R15" pad="2"/>
 <contactref element="U2" pad="5"/>
 <contactref element="X2" pad="14"/>
-<wire x1="51.054" y1="83.82" x2="53.42" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="103.9749" y1="18.415" x2="51.054" y2="83.82" width="0" layer="19" extent="1-1"/>
+<wire x1="45.72" y1="79.5401" x2="45.72" y2="81.28" width="0.1524" layer="1"/>
+<wire x1="45.72" y1="81.28" x2="44.45" y2="82.55" width="0.1524" layer="1"/>
+<wire x1="44.45" y1="82.55" x2="43.815" y2="82.55" width="0.1524" layer="1"/>
+<wire x1="43.815" y1="82.55" x2="43.18" y2="83.185" width="0.1524" layer="1"/>
+<wire x1="43.18" y1="83.185" x2="43.18" y2="84.201" width="0.1524" layer="1"/>
+<wire x1="43.18" y1="84.201" x2="41.99" y2="98.695" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$15">
 <contactref element="R14" pad="2"/>
 <contactref element="U2" pad="4"/>
 <contactref element="X2" pad="12"/>
-<wire x1="51.054" y1="77.47" x2="55.42" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="103.9749" y1="19.685" x2="51.054" y2="77.47" width="0" layer="19" extent="1-1"/>
+<wire x1="46.99" y1="81.28" x2="48.26" y2="82.55" width="0.1524" layer="1"/>
+<wire x1="48.26" y1="82.55" x2="48.26" y2="84.201" width="0.1524" layer="1"/>
+<wire x1="46.99" y1="79.5401" x2="46.99" y2="81.28" width="0.1524" layer="1"/>
+<wire x1="48.26" y1="84.201" x2="43.99" y2="98.695" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$16">
 <contactref element="R13" pad="2"/>
 <contactref element="U2" pad="3"/>
 <contactref element="X2" pad="10"/>
-<wire x1="51.054" y1="71.12" x2="57.42" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="103.9749" y1="20.955" x2="51.054" y2="71.12" width="0" layer="19" extent="1-1"/>
+<wire x1="48.26" y1="79.5401" x2="48.26" y2="81.28" width="0.1524" layer="1"/>
+<wire x1="49.2252" y1="82.2452" x2="52.83125625" y2="82.2452" width="0.1524" layer="1"/>
+<wire x1="53.34" y1="84.201" x2="53.34" y2="82.75394375" width="0.1524" layer="1"/>
+<wire x1="53.34" y1="82.75394375" x2="52.83125625" y2="82.2452" width="0.1524" layer="1"/>
+<wire x1="48.26" y1="81.28" x2="49.2252" y2="82.2452" width="0.1524" layer="1"/>
+<wire x1="53.34" y1="84.201" x2="45.99" y2="98.695" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$25">
 <contactref element="R12" pad="2"/>
 <contactref element="U2" pad="14"/>
 <contactref element="X2" pad="8"/>
-<wire x1="51.054" y1="64.77" x2="59.42" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="109.3851" y1="20.955" x2="51.054" y2="64.77" width="0" layer="19" extent="1-1"/>
+<wire x1="48.26" y1="74.1299" x2="48.26" y2="76.835" width="0.1524" layer="1"/>
+<wire x1="48.26" y1="76.835" x2="48.895" y2="77.47" width="0.1524" layer="1"/>
+<wire x1="48.895" y1="77.47" x2="48.895" y2="81.28" width="0.1524" layer="1"/>
+<wire x1="48.895" y1="81.28" x2="49.53" y2="81.915" width="0.1524" layer="1"/>
+<wire x1="55.245" y1="81.915" x2="55.88" y2="82.55" width="0.1524" layer="1"/>
+<wire x1="55.88" y1="82.55" x2="55.88" y2="84.201" width="0.1524" layer="1"/>
+<wire x1="49.53" y1="81.915" x2="55.245" y2="81.915" width="0.1524" layer="1"/>
+<wire x1="55.88" y1="84.201" x2="47.99" y2="98.695" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$36">
 <contactref element="R11" pad="2"/>
 <contactref element="U2" pad="13"/>
 <contactref element="X2" pad="6"/>
-<wire x1="51.054" y1="58.42" x2="61.42" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="109.3851" y1="19.685" x2="51.054" y2="58.42" width="0" layer="19" extent="1-1"/>
+<wire x1="46.99" y1="74.1299" x2="46.99" y2="76.835" width="0.1524" layer="1"/>
+<wire x1="46.99" y1="76.835" x2="47.625" y2="77.47" width="0.1524" layer="1"/>
+<wire x1="47.625" y1="81.28" x2="48.895" y2="82.55" width="0.1524" layer="1"/>
+<wire x1="48.895" y1="82.55" x2="50.165" y2="82.55" width="0.1524" layer="1"/>
+<wire x1="50.165" y1="82.55" x2="50.8" y2="83.185" width="0.1524" layer="1"/>
+<wire x1="50.8" y1="83.185" x2="50.8" y2="84.201" width="0.1524" layer="1"/>
+<wire x1="47.625" y1="77.47" x2="47.625" y2="81.28" width="0.1524" layer="1"/>
+<wire x1="50.8" y1="84.201" x2="49.99" y2="98.695" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$55">
 <contactref element="R10" pad="2"/>
 <contactref element="U2" pad="12"/>
 <contactref element="X2" pad="4"/>
-<wire x1="51.054" y1="52.07" x2="63.42" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="109.3851" y1="18.415" x2="51.054" y2="52.07" width="0" layer="19" extent="1-1"/>
+<wire x1="45.72" y1="74.1299" x2="45.72" y2="76.835" width="0.1524" layer="1"/>
+<wire x1="45.72" y1="76.835" x2="46.355" y2="77.47" width="0.1524" layer="1"/>
+<wire x1="46.355" y1="81.28" x2="45.72" y2="81.915" width="0.1524" layer="1"/>
+<wire x1="45.72" y1="81.915" x2="45.72" y2="84.201" width="0.1524" layer="1"/>
+<wire x1="46.355" y1="77.47" x2="46.355" y2="81.28" width="0.1524" layer="1"/>
+<wire x1="45.72" y1="84.201" x2="51.99" y2="98.695" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$56">
 <contactref element="R9" pad="2"/>
 <contactref element="U2" pad="11"/>
 <contactref element="X2" pad="2"/>
-<wire x1="51.054" y1="45.72" x2="65.42" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="109.3851" y1="17.145" x2="51.054" y2="45.72" width="0" layer="19" extent="1-1"/>
+<wire x1="44.45" y1="74.1299" x2="44.45" y2="76.835" width="0.1524" layer="1"/>
+<wire x1="44.45" y1="76.835" x2="45.085" y2="77.47" width="0.1524" layer="1"/>
+<wire x1="45.085" y1="77.47" x2="45.085" y2="81.28" width="0.1524" layer="1"/>
+<wire x1="45.085" y1="81.28" x2="44.1452" y2="82.2198" width="0.1524" layer="1"/>
+<wire x1="40.9702" y1="82.2198" x2="40.64" y2="82.55" width="0.1524" layer="1"/>
+<wire x1="40.64" y1="82.55" x2="40.64" y2="84.201" width="0.1524" layer="1"/>
+<wire x1="44.1452" y1="82.2198" x2="40.9702" y2="82.2198" width="0.1524" layer="1"/>
+<wire x1="40.64" y1="84.201" x2="53.99" y2="98.695" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$2">
 <contactref element="R8" pad="2"/>
 <contactref element="U1" pad="6"/>
 <contactref element="X1" pad="16"/>
-<wire x1="14.224" y1="88.9" x2="14.59" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="78.5749" y1="17.145" x2="14.224" y2="88.9" width="0" layer="19" extent="1-1"/>
+<wire x1="15.24" y1="95.504" x2="16.51" y2="94.234" width="0.1524" layer="1"/>
+<wire x1="16.51" y1="94.234" x2="16.51" y2="76.2" width="0.1524" layer="1"/>
+<wire x1="16.51" y1="76.2" x2="18.415" y2="74.295" width="0.1524" layer="1"/>
+<wire x1="18.415" y1="74.295" x2="21.4249" y2="74.295" width="0.1524" layer="1"/>
+<wire x1="15.24" y1="95.504" x2="17.13" y2="98.695" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$3">
 <contactref element="R7" pad="2"/>
 <contactref element="U1" pad="5"/>
 <contactref element="X1" pad="14"/>
-<wire x1="14.224" y1="82.55" x2="16.59" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="78.5749" y1="18.415" x2="14.224" y2="82.55" width="0" layer="19" extent="1-1"/>
+<wire x1="17.78" y1="95.504" x2="19.05" y2="94.234" width="0.1524" layer="1"/>
+<wire x1="19.05" y1="94.234" x2="19.05" y2="76.835" width="0.1524" layer="1"/>
+<wire x1="19.05" y1="76.835" x2="20.32" y2="75.565" width="0.1524" layer="1"/>
+<wire x1="20.32" y1="75.565" x2="21.4249" y2="75.565" width="0.1524" layer="1"/>
+<wire x1="17.78" y1="95.504" x2="19.13" y2="98.695" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$4">
 <contactref element="R6" pad="2"/>
 <contactref element="U1" pad="4"/>
 <contactref element="X1" pad="12"/>
-<wire x1="14.224" y1="76.2" x2="18.59" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="78.5749" y1="19.685" x2="14.224" y2="76.2" width="0" layer="19" extent="1-1"/>
+<wire x1="20.32" y1="95.504" x2="21.59" y2="94.234" width="0.1524" layer="1"/>
+<wire x1="21.59" y1="94.234" x2="21.59" y2="82.55" width="0.1524" layer="1"/>
+<wire x1="21.59" y1="82.55" x2="20.955" y2="81.915" width="0.1524" layer="1"/>
+<wire x1="20.955" y1="81.915" x2="20.32" y2="81.915" width="0.1524" layer="1"/>
+<wire x1="20.32" y1="81.915" x2="19.685" y2="81.28" width="0.1524" layer="1"/>
+<wire x1="19.685" y1="81.28" x2="19.685" y2="77.47" width="0.1524" layer="1"/>
+<wire x1="19.685" y1="77.47" x2="20.32" y2="76.835" width="0.1524" layer="1"/>
+<wire x1="20.32" y1="76.835" x2="21.4249" y2="76.835" width="0.1524" layer="1"/>
+<wire x1="20.32" y1="95.504" x2="21.13" y2="98.695" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$5">
 <contactref element="R5" pad="2"/>
 <contactref element="U1" pad="3"/>
 <contactref element="X1" pad="10"/>
-<wire x1="14.224" y1="69.85" x2="20.59" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="78.5749" y1="20.955" x2="14.224" y2="69.85" width="0" layer="19" extent="1-1"/>
+<wire x1="22.86" y1="95.504" x2="24.13" y2="94.234" width="0.1524" layer="1"/>
+<wire x1="24.13" y1="78.74" x2="23.495" y2="78.105" width="0.1524" layer="1"/>
+<wire x1="23.495" y1="78.105" x2="21.4249" y2="78.105" width="0.1524" layer="1"/>
+<wire x1="24.13" y1="94.234" x2="24.13" y2="78.74" width="0.1524" layer="1"/>
+<wire x1="22.86" y1="95.504" x2="23.13" y2="98.695" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$6">
 <contactref element="R4" pad="2"/>
 <contactref element="U1" pad="14"/>
 <contactref element="X1" pad="8"/>
-<wire x1="14.224" y1="63.5" x2="22.59" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="83.9851" y1="20.955" x2="14.224" y2="63.5" width="0" layer="19" extent="1-1"/>
+<wire x1="25.4" y1="95.504" x2="26.67" y2="94.234" width="0.1524" layer="1"/>
+<wire x1="26.67" y1="94.234" x2="26.67" y2="82.55" width="0.1524" layer="1"/>
+<wire x1="26.67" y1="82.55" x2="26.035" y2="81.915" width="0.1524" layer="1"/>
+<wire x1="26.035" y1="81.915" x2="25.4" y2="81.915" width="0.1524" layer="1"/>
+<wire x1="25.4" y1="81.915" x2="24.765" y2="81.28" width="0.1524" layer="1"/>
+<wire x1="24.765" y1="81.28" x2="24.765" y2="78.74" width="0.1524" layer="1"/>
+<wire x1="24.765" y1="78.74" x2="25.4" y2="78.105" width="0.1524" layer="1"/>
+<wire x1="25.4" y1="78.105" x2="26.8351" y2="78.105" width="0.1524" layer="1"/>
+<wire x1="25.4" y1="95.504" x2="25.13" y2="98.695" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$7">
 <contactref element="R3" pad="2"/>
 <contactref element="U1" pad="13"/>
 <contactref element="X1" pad="6"/>
-<wire x1="14.224" y1="57.15" x2="24.59" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="83.9851" y1="19.685" x2="14.224" y2="57.15" width="0" layer="19" extent="1-1"/>
+<wire x1="27.94" y1="95.504" x2="29.21" y2="94.234" width="0.1524" layer="1"/>
+<wire x1="29.21" y1="77.47" x2="28.575" y2="76.835" width="0.1524" layer="1"/>
+<wire x1="28.575" y1="76.835" x2="26.8351" y2="76.835" width="0.1524" layer="1"/>
+<wire x1="29.21" y1="94.234" x2="29.21" y2="77.47" width="0.1524" layer="1"/>
+<wire x1="27.94" y1="95.504" x2="27.13" y2="98.695" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$8">
 <contactref element="R2" pad="2"/>
 <contactref element="U1" pad="12"/>
 <contactref element="X1" pad="4"/>
-<wire x1="14.224" y1="50.8" x2="26.59" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="83.9851" y1="18.415" x2="14.224" y2="50.8" width="0" layer="19" extent="1-1"/>
+<wire x1="30.48" y1="95.504" x2="31.75" y2="94.234" width="0.1524" layer="1"/>
+<wire x1="31.75" y1="76.2" x2="31.115" y2="75.565" width="0.1524" layer="1"/>
+<wire x1="31.115" y1="75.565" x2="26.8351" y2="75.565" width="0.1524" layer="1"/>
+<wire x1="31.75" y1="94.234" x2="31.75" y2="76.2" width="0.1524" layer="1"/>
+<wire x1="30.48" y1="95.504" x2="29.13" y2="98.695" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$9">
 <contactref element="R1" pad="2"/>
 <contactref element="U1" pad="11"/>
 <contactref element="X1" pad="2"/>
-<wire x1="14.224" y1="44.45" x2="28.59" y2="95.52" width="0" layer="19" extent="1-1"/>
-<wire x1="83.9851" y1="17.145" x2="14.224" y2="44.45" width="0" layer="19" extent="1-1"/>
+<wire x1="33.02" y1="95.504" x2="34.29" y2="94.234" width="0.1524" layer="1"/>
+<wire x1="34.29" y1="74.93" x2="33.655" y2="74.295" width="0.1524" layer="1"/>
+<wire x1="33.655" y1="74.295" x2="26.8351" y2="74.295" width="0.1524" layer="1"/>
+<wire x1="34.29" y1="94.234" x2="34.29" y2="74.93" width="0.1524" layer="1"/>
+<wire x1="33.02" y1="95.504" x2="31.13" y2="98.695" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$10">
 <contactref element="U$1" pad="PA_3"/>
@@ -3673,8 +3699,8 @@ design rules under a new name.</description>
 <contactref element="U4" pad="2"/>
 <wire x1="149.6949" y1="22.225" x2="172.5549" y2="22.225" width="0" layer="19" extent="1-1"/>
 <wire x1="126.8349" y1="22.225" x2="149.6949" y2="22.225" width="0" layer="19" extent="1-1"/>
-<wire x1="103.9749" y1="22.225" x2="126.8349" y2="22.225" width="0" layer="19" extent="1-1"/>
-<wire x1="40.64" y1="26.67" x2="103.9749" y2="22.225" width="0" layer="19" extent="1-1"/>
+<wire x1="49.53" y1="79.5401" x2="126.8349" y2="22.225" width="0" layer="19" extent="1-1"/>
+<wire x1="50.8" y1="66.04" x2="49.53" y2="79.5401" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$11">
 <contactref element="U1" pad="2"/>
