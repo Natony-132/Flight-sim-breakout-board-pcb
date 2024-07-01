@@ -23,5 +23,7 @@ Later iterations will leave off this filter entirely.
 
 These custom circuit boards were used in a UH-34 Sikorsky helicopter collective and a replica FA18 landing gear panel. 
 ![PCB in use](/Flight%20sim%20PCB%20in%20use%20images/flight%20sim%20lights%20on.jpg)
+![PCB demo](/Flight%20sim%20PCB%20in%20use%20images/collective%20in%20the%20shop.jpg)
+![Flight sim in progress](/Flight%20sim%20PCB%20in%20use%20images/Flight%20sim%20in%20G.jpg)
 ![PCB in use 1.5](/Flight%20sim%20PCB%20in%20use%20images/flight%20sim%20FA18%20landing%20panal%20light%20test.jpg)
 ![PCB in use 2](/Flight%20sim%20PCB%20in%20use%20images/flight%20sim%20G.jpg)
