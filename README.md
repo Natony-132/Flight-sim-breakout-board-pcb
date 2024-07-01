@@ -18,3 +18,7 @@ Due to signal noise in most potentiometers, each pad was designed to have a 3rd 
 This proved to be unnecessary due to filters built into the Arduino program. This was not unexpected, so a filter bypass was built into the PCB so that the physical filter doesn't need to not be populated during board assembly. 
 
 Later iterations will leave off this filter entirely.
+
+ 
+
+These custom circuit boards were used in a UH-34 Sikorsky helicopter collective and a replica FA18 landing gear panel. 
